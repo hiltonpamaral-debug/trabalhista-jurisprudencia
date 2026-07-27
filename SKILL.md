@@ -37,9 +37,14 @@ Cada subseção de pedido específico segue o padrão: **fundamentação em pros
 
 Fundamento alternativo mais curto (variante Cardoso): declaração de hipossuficiência assinada pelo reclamante/advogado basta — **Súmula nº 463, I, do TST**.
 
-### 2. Juízo 100% Digital (variante Cardoso — não aparece na variante Köhler, é estilo pessoal, incluir se o advogado responsável for o Dr. Evandro)
-> [...] a parte autora manifesta interesse pela adesão ao JUÍZO 100% digital de acordo com a forma adotada pela Resolução nº 345/2020 do CNJ.
-Seguido de bloco com nome/e-mail/telefone do patrono e do reclamante.
+### 2. Juízo 100% Digital (universal — decisão do usuário: incluir sempre, independente de qual advogado assina)
+Originalmente só aparecia na variante Cardoso (não constava na Tayná) — passa a ser cláusula padrão em toda petição. Texto abaixo reescrito no estilo Tayná (mais formal/elaborado), substituindo a redação técnica curta original do Cardoso:
+
+> Registra-se, ainda, o interesse da parte Reclamante na adesão ao Juízo 100% Digital, nos termos da Resolução nº 345/2020 do Conselho Nacional de Justiça, medida que contribui para a celeridade e a efetividade da prestação jurisdicional, notadamente em razão da tramitação integralmente eletrônica dos atos processuais. Para tanto, informam-se os dados de contato do(a) patrono(a) e da parte Reclamante, para fins de intimações e comunicações processuais:
+> [Nome do advogado], OAB/[UF] [nº], e-mail: [e-mail], telefone: [telefone].
+> [Nome do Reclamante], e-mail: [e-mail], telefone: [telefone].
+
+Registro histórico (texto real, Cardoso, não usar mais como padrão): "[...] a parte autora manifesta interesse pela adesão ao JUÍZO 100% digital de acordo com a forma adotada pela Resolução nº 345/2020 do CNJ", seguido de bloco com nome/e-mail/telefone do patrono e do reclamante.
 
 ### 3. Segredo de Justiça (condicional — só incluir se houver documento médico/psiquiátrico sensível nos autos)
 > Considerando que a presente ação envolve documentos médicos e atestados que tratam da saúde [mental/física] do Reclamante, requer-se, com fundamento no art. 189 do CPC, a tramitação do processo em segredo de justiça [...].
@@ -103,8 +108,8 @@ Verificado contra as 4 petições-fonte: aparece em Geovane, Wellynton/GR e Elen
 
 Ainda assim, antes de pedir, confirmar com o cliente os requisitos de carência da Lei 7.998/90 (tempo mínimo trabalhado, se é a 1ª/2ª/3ª solicitação, ausência de renda própria suficiente) — são fatos específicos do caso, não presumir.
 
-### 10. Honorários advocatícios de sucumbência (universal — padronizado em 20%)
-20% sobre o valor da condenação/liquidação, art. 791-A da CLT — mesmo percentual usado na Tayná (Köhler); adotar 20% como padrão do escritório daqui em diante, independente de qual advogado assina (as petições do Dr. Cardoso usavam 15%, mas o padrão agora é 20%).
+### 10. Honorários advocatícios de sucumbência (universal — padronizado em 15%, o teto legal)
+15% sobre o valor da condenação/liquidação, art. 791-A da CLT — **correção**: o artigo fixa o percentual entre 5% e 15%, então 15% já é o MÁXIMO permitido; a petição da Tayná usava 20%, que excede o teto legal (provável erro da própria petição-fonte). Adotar 15% como padrão do escritório daqui em diante, independente de qual advogado assina.
 
 ### 11. Intimações exclusivamente em nome do advogado (universal — decisão do usuário: manter sempre, com Dr. Evandro Rodrigues Cardoso como referência padrão de preenchimento)
 Só aparecia na petição do Geovane (ausente nas outras 3), mas por decisão do escritório passa a ser cláusula padrão em toda petição, adaptando nome/OAB para quem assinar o caso.
@@ -123,12 +128,12 @@ Achado real (TRT10, ATSum 0000853-43.2026.5.10.0018, julho/2026): processo **ext
 
 - **Dr. Paulo César Köhler (OAB/MT)**: petições mais enxutas, sem o bloco de Juízo 100% Digital, foco forte em meio ambiente do trabalho/acidente/doença ocupacional quando aplicável.
 - **Dr. Evandro Rodrigues Cardoso (OAB/DF, e-mail ercadvogado@gmail.com)**: sempre inclui Juízo 100% Digital com dados de contato, mais extenso em jurisprudência citada, usa "grifei"/"sinalizei" ao destacar trechos de prova.
-- Confirmar com o usuário qual advogado assina antes de decidir incluir o bloco do Juízo 100% Digital.
+- Juízo 100% Digital (cláusula 2) passou a ser universal por decisão do escritório — incluir sempre, independente de qual advogado assina (ver cláusula 2 acima); só o nome/e-mail/telefone do patrono varia.
 
 ## Como aplicar
 
 1. Ao montar uma petição nova (via `reclamacao-trabalhista-inicial` ou diretamente), usar a estrutura de capítulos romanos do estilo Tayná como esqueleto.
-2. Inserir as cláusulas universais sempre: 1 (gratuidade), 4 (valores estimativos/não limitação), 10 (honorários, 20%), 11 (intimação exclusiva), 12 (provas).
-3. Inserir condicionalmente, conforme os fatos do caso: 5 (parcela variável habitual), 6 (hora extra/adicional), 7 (rescisão em atraso), 8 (controvérsia sobre valor), 9 (seguro-desemprego — só se guias não entregues, por reclassificação ou não, OU se há diferença por verbas novas reconhecidas na ação; nunca por padrão em dispensa sem justa causa simples com guias entregues), 2 (Juízo 100% Digital — depende do advogado), 3 (segredo de justiça — só com documento médico sensível).
+2. Inserir as cláusulas universais sempre: 1 (gratuidade), 2 (Juízo 100% Digital), 4 (valores estimativos/não limitação), 10 (honorários, 15%), 11 (intimação exclusiva), 12 (provas).
+3. Inserir condicionalmente, conforme os fatos do caso: 5 (parcela variável habitual), 6 (hora extra/adicional), 7 (rescisão em atraso), 8 (controvérsia sobre valor), 9 (seguro-desemprego — só se guias não entregues, por reclassificação ou não, OU se há diferença por verbas novas reconhecidas na ação; nunca por padrão em dispensa sem justa causa simples com guias entregues), 3 (segredo de justiça — só com documento médico sensível).
 4. Perguntar ao usuário qual advogado assina (nome/OAB) para preencher a cláusula 11 corretamente — o padrão de referência é Evandro Rodrigues Cardoso, OAB/DF 75.805, mas adaptar para quem assinar de fato.
 5. Nunca inventar valores/jurisprudência — os números de cada petição são calculados a partir dos documentos do caso concreto; as cláusulas acima são só o **texto-padrão**, não os valores.

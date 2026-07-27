@@ -46,12 +46,12 @@ Cada subseção de pedido de mérito segue: fundamentação em prosa → jurispr
 ---
 
 ## 3. Honorários advocatícios de sucumbência
-**Tipo:** GERAL — padronizado em **20%**
+**Tipo:** GERAL — padronizado em **15%** (é o teto legal)
 
-**Texto sugerido (texto real, Tayná — adotado como padrão do escritório daqui em diante):**
-> Requer a condenação da Reclamada ao pagamento de honorários advocatícios sucumbenciais, no importe de 20% (vinte por cento) sobre o valor da condenação/liquidação, nos termos do art. 791-A da CLT.
+**Texto sugerido (adotado como padrão do escritório):**
+> Requer a condenação da Reclamada ao pagamento de honorários advocatícios sucumbenciais, no importe de 15% (quinze por cento) sobre o valor da condenação/liquidação, nos termos do art. 791-A da CLT.
 
-*(As petições de Cardoso usavam 15% — decisão do escritório é padronizar em 20% independentemente de qual advogado assina.)*
+*(**Correção**: o art. 791-A, CLT fixa o percentual entre 5% e 15% — 15% já é o máximo permitido em lei. A petição da Tayná usava 20%, que excede o teto legal — provável erro da própria petição-fonte, não usar como referência para o percentual. Decisão do escritório: padronizar em 15% independentemente de qual advogado assina.)*
 
 ---
 
@@ -71,26 +71,27 @@ Cada subseção de pedido de mérito segue: fundamentação em prosa → jurispr
 
 ---
 
-# PARTE 2 — CLÁUSULAS ESPECÍFICAS (só incluir se os fatos do caso sustentarem)
-
 ## 6. Juízo 100% Digital
-**Tipo:** ESPECÍFICO
+**Tipo:** GERAL — decisão do escritório: incluir sempre, independente de qual advogado assina (originalmente só aparecia na variante Cardoso; passou a ser cláusula padrão)
 
-**Condição de procedência:** advogado responsável pela assinatura da petição é o Dr. Evandro Rodrigues Cardoso (variante pessoal dele — não aparece nas petições do Dr. Köhler). Perguntar sempre qual advogado assina antes de incluir.
+**Texto sugerido (texto modelo, reescrito no estilo Tayná — substitui a redação técnica curta original do Cardoso):**
+> Registra-se, ainda, o interesse da parte Reclamante na adesão ao Juízo 100% Digital, nos termos da Resolução nº 345/2020 do Conselho Nacional de Justiça, medida que contribui para a celeridade e a efetividade da prestação jurisdicional, notadamente em razão da tramitação integralmente eletrônica dos atos processuais. Para tanto, informam-se os dados de contato do(a) patrono(a) e da parte Reclamante, para fins de intimações e comunicações processuais:
+> [Nome do advogado], OAB/[UF] [nº], e-mail: [e-mail], telefone: [telefone].
+> [Nome do Reclamante], e-mail: [e-mail], telefone: [telefone].
 
-**Texto sugerido (texto real, Cardoso):**
-> A parte autora manifesta interesse pela adesão ao JUÍZO 100% digital de acordo com a forma adotada pela Resolução nº 345/2020 do CNJ.
-*(seguido de bloco com nome/e-mail/telefone do patrono e do reclamante)*
+**Registro histórico (texto real, Cardoso, não usar mais como padrão):** "[...] a parte autora manifesta interesse pela adesão ao JUÍZO 100% digital de acordo com a forma adotada pela Resolução nº 345/2020 do CNJ", seguido de bloco com nome/e-mail/telefone do patrono e do reclamante.
 
 ---
+
+# PARTE 2 — CLÁUSULAS ESPECÍFICAS (só incluir se os fatos do caso sustentarem)
 
 ## 7. Segredo de Justiça
 **Tipo:** ESPECÍFICO
 
 **Condição de procedência:** há documento médico/psiquiátrico sensível anexado aos autos (atestados, laudos, prontuários que tratem da saúde física/mental do reclamante).
 
-**Texto sugerido (texto modelo):**
-> Considerando que a presente ação envolve documentos médicos e atestados que tratam da saúde [mental/física] do Reclamante, requer-se, com fundamento no art. 189 do CPC, a tramitação do processo em segredo de justiça, restringindo-se o acesso aos autos às partes e a seus respectivos procuradores.
+**Texto sugerido (texto modelo, reescrito no estilo Tayná):**
+> Ressalte-se que a presente demanda versa sobre fatos e documentos de natureza sensível, notadamente atestados, laudos e prontuários médicos que dizem respeito à saúde [física/mental] da parte Reclamante, cuja publicidade irrestrita poderia expor indevidamente sua intimidade e vida privada, direitos assegurados pelo art. 5º, X, da Constituição Federal. Diante disso, requer-se, com fundamento no art. 189, IV, do Código de Processo Civil, a tramitação do presente feito em segredo de justiça, restringindo-se o acesso aos autos exclusivamente às partes e aos respectivos procuradores constituídos.
 
 ---
 
@@ -99,8 +100,10 @@ Cada subseção de pedido de mérito segue: fundamentação em prosa → jurispr
 
 **Condição de procedência:** há parcela variável habitual não integrada à remuneração para todos os fins (comissão, gratificação, prêmio, "pagamento por fora"/salário extraoficial).
 
-**Texto sugerido (texto real, Cardoso):**
-> O valor a ser considerado como base de cálculo para todos os fins deve corresponder à verdadeira remuneração recebida pelo Reclamante, em conformidade com o princípio da primazia da realidade, segundo o qual a realidade dos fatos prevalece sobre a forma ou a documentação que, porventura, não a reflita adequadamente.
+**Texto sugerido (texto modelo, reescrito no estilo Tayná a partir do texto real do Cardoso):**
+> Cumpre destacar que, ao longo de toda a contratualidade, a parte Reclamante recebia, de forma habitual e reiterada, a parcela [especificar: comissão / gratificação / pagamento extraoficial], sem que esta fosse considerada para fins de composição da sua remuneração e, por consequência, para o cálculo das demais verbas trabalhistas. Nesse contexto, impõe-se o reconhecimento de que o valor a ser considerado como base de cálculo para todos os fins deve corresponder à verdadeira remuneração percebida pela Reclamante, em estrita observância ao princípio da primazia da realidade, segundo o qual os fatos concretamente verificados ao longo da prestação de serviços prevalecem sobre a forma ou a documentação que, porventura, não os reflita adequadamente.
+
+**Registro histórico (texto real, Cardoso):** "O valor a ser considerado como base de cálculo para todos os fins deve corresponder à verdadeira remuneração recebida pelo Reclamante, em conformidade com o princípio da primazia da realidade [...]"
 
 **Jurisprudência-padrão (texto real, citar literalmente):**
 > "AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. [...] A averiguação se dá em cada caso, em respeito ao princípio da primazia da realidade, segundo o qual se deve analisar a prática concreta efetivada ao longo da prestação de serviços, independentemente da vontade eventualmente manifestada pelas partes ou ao previsto em instrumento escrito que, porventura, não correspondam à realidade. Agravo desprovido" (Ag-AIRR-1600-43.2017.5.17.0008, 3ª Turma, Relator Ministro Mauricio Godinho Delgado, DEJT 04/10/2024).
@@ -136,8 +139,8 @@ Cada subseção de pedido de mérito segue: fundamentação em prosa → jurispr
 
 **Condição de procedência:** há verba rescisória em atraso, OU rescisão indireta/reversão de justa causa reconhecida judicialmente (a multa se torna exigível mesmo que o reconhecimento seja posterior — Tema 52 dos Recursos Repetitivos do TST).
 
-**Texto sugerido (texto modelo):**
-> A Reclamada deixou de quitar, no prazo legal de 10 dias, as verbas rescisórias devidas à Reclamante, nos termos do art. 477, §§ 6º e 8º, da CLT, o que enseja a aplicação da respectiva multa, no valor equivalente ao salário da Reclamante.
+**Texto sugerido (texto modelo, estilo Tayná):**
+> Registre-se que a Reclamada não observou o prazo legal de 10 (dez) dias para quitação das verbas rescisórias devidas à Reclamante, nos termos do art. 477, § 6º, da CLT, mora que enseja, por força do § 8º do mesmo dispositivo, a aplicação da multa correspondente, em valor equivalente ao salário da Reclamante, a qual ora se requer seja também objeto de condenação.
 
 ---
 
@@ -146,8 +149,8 @@ Cada subseção de pedido de mérito segue: fundamentação em prosa → jurispr
 
 **Condição de procedência:** há controvérsia sobre o montante exato das verbas rescisórias (a Reclamada pode contestar valores).
 
-**Texto sugerido (texto real, adaptado):**
-> Caso a Reclamada não efetue o pagamento das verbas rescisórias incontroversas na primeira audiência, requer-se a aplicação da multa prevista no art. 467 da CLT, no percentual de 50% sobre as verbas rescisórias incontroversas reconhecidas nos autos.
+**Texto sugerido (texto real, Cardoso, reescrito no estilo Tayná):**
+> Não bastasse isso, caso a Reclamada deixe de efetuar, já na primeira audiência, o pagamento das verbas rescisórias incontroversas, requer-se, desde logo, a aplicação da multa prevista no art. 467 da CLT, correspondente a 50% (cinquenta por cento) sobre o montante incontroverso reconhecido nos autos.
 
 ---
 
@@ -161,8 +164,10 @@ Cada subseção de pedido de mérito segue: fundamentação em prosa → jurispr
 
 Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.998/90 (tempo mínimo trabalhado, se é 1ª/2ª/3ª solicitação, ausência de renda própria).
 
-**Texto sugerido — cenário 1 (texto real, Geovane, adaptar):**
-> Requer o Reclamante, diante do reconhecimento da conversão [do pedido de demissão / da justa causa] em [rescisão indireta / dispensa sem justa causa], com efeitos equivalentes à dispensa sem justa causa, a concessão do benefício do seguro-desemprego, conforme previsão da Lei nº 7.998/90. Diante do exposto, requer a condenação da Reclamada à entrega das guias do seguro-desemprego ou, em caso de impossibilidade de habilitação administrativa por culpa exclusiva da Reclamada, ao pagamento direto do valor total correspondente às parcelas devidas, no teto vigente da tabela, a título de indenização substitutiva.
+**Texto sugerido — cenário 1 (texto real, Geovane, reescrito no estilo Tayná):**
+> Reconhecida a conversão [do pedido de demissão / da dispensa por justa causa] em [rescisão indireta / dispensa sem justa causa], impõe-se reconhecer que tal reconhecimento produz, para todos os efeitos legais, os mesmos efeitos de uma dispensa imotivada, fazendo a parte Reclamante jus à percepção do benefício do seguro-desemprego, nos termos da Lei nº 7.998/90. Diante do exposto, requer a condenação da Reclamada à entrega das guias necessárias à habilitação do benefício ou, na hipótese de impossibilidade de habilitação administrativa por culpa exclusiva da Reclamada, ao pagamento direto, a título de indenização substitutiva, do valor total correspondente às parcelas devidas, observado o teto da tabela vigente.
+
+**Registro histórico (texto real, Geovane):** "Requer o Reclamante, diante do reconhecimento da conversão [...] em [...], com efeitos equivalentes à dispensa sem justa causa, a concessão do benefício do seguro-desemprego, conforme previsão da Lei nº 7.998/90."
 
 ---
 
@@ -173,8 +178,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Base legal:** art. 29 CLT.
 
-**Texto sugerido (texto modelo):**
-> Requer o reconhecimento do vínculo empregatício desde [data real de início da prestação de serviços], com a devida retificação da CTPS, tendo em vista que, muito embora a anotação formal indique [data anotada], a prova dos autos demonstra que a Reclamante já prestava serviços à Reclamada desde a data ora informada.
+**Texto sugerido (texto modelo, estilo Tayná):**
+> Muito embora a Carteira de Trabalho e Previdência Social da Reclamante indique como data de admissão [data anotada], a prova produzida nos autos demonstra, de forma inequívoca, que a prestação de serviços em favor da Reclamada teve início já em [data real], circunstância que não pode ser ignorada por este Juízo. Diante disso, requer-se o reconhecimento do vínculo empregatício desde a data ora informada, com a consequente retificação da CTPS e o reflexo em todas as verbas trabalhistas cujo período aquisitivo dependa da correta data de admissão.
 
 ---
 
@@ -183,8 +188,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Condição de procedência:** falta grave do empregador (Temas 70 e 85 TST: FGTS irregular e horas extras habituais não pagas configuram falta grave, autorizando rescisão indireta mesmo sem imediatidade — Tema 70).
 
-**Texto sugerido (texto modelo, art. 483 CLT):**
-> Diante dos reiterados descumprimentos contratuais praticados pela Reclamada — [especificar: FGTS não depositado / salários em atraso / etc.] —, requer-se o reconhecimento da rescisão indireta do contrato de trabalho, nos termos do art. 483 da CLT, com a produção de todos os efeitos de uma dispensa sem justa causa.
+**Texto sugerido (texto modelo, art. 483 CLT, estilo Tayná):**
+> Ao longo da contratualidade, a Reclamada incorreu em reiterados descumprimentos de suas obrigações contratuais, notadamente [especificar: ausência de recolhimento do FGTS / atraso habitual no pagamento de salários / etc.], conduta que se amolda às hipóteses do art. 483 da CLT e que autoriza a parte Reclamante a considerar rescindido o contrato de trabalho por culpa da empregadora. Diante do exposto, requer-se o reconhecimento da rescisão indireta do contrato de trabalho, com a produção de todos os efeitos de uma dispensa sem justa causa.
 
 **⚠️ Contra-indicação processual:** se a petição for protocolada em rito sumaríssimo, este pedido precisa ter valor líquido atribuído (ver alerta no topo do documento) — já houve extinção sem mérito por esse motivo (TRT10, 2026).
 
@@ -195,8 +200,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Condição de procedência:** desproporcionalidade da penalidade, intempestividade (princípio da imediatidade — penalidade aplicada muito tempo depois do fato sugere tolerância presumida), ausência de histórico disciplinar/gradação de penalidades anteriores.
 
-**Texto sugerido (texto modelo):**
-> A penalidade de justa causa aplicada à Reclamante é manifestamente desproporcional [e intempestiva], porquanto [não houve gradação disciplinar prévia / a penalidade foi aplicada [X] meses após o fato alegado, evidenciando o perdão tácito da empregadora]. Requer-se, assim, a reversão da justa causa para dispensa sem justa causa, com todos os efeitos legais daí decorrentes.
+**Texto sugerido (texto modelo, estilo Tayná):**
+> A penalidade de justa causa aplicada à Reclamante revela-se manifestamente desproporcional [e intempestiva], porquanto [não houve qualquer gradação disciplinar prévia, tampouco advertência ou suspensão anterior pelo mesmo fato / a penalidade somente foi aplicada [X] meses após o fato alegado, circunstância que evidencia o perdão tácito por parte da empregadora e afronta o princípio da imediatidade]. Diante do exposto, requer-se a reversão da justa causa aplicada para dispensa sem justa causa, com a produção de todos os efeitos legais daí decorrentes.
 
 ---
 
@@ -265,8 +270,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Base legal:** art. 7º, XIII e XVI, CF; art. 59/71 CLT; base de cálculo com todas as verbas habituais (Súmula 264 TST, art. 457 CLT).
 
-**Texto sugerido (texto modelo):**
-> A Reclamante laborava habitualmente em jornada extraordinária, de [horário], sem a correta contraprestação pelas horas excedentes à 8ª diária/44ª semanal, [e sem a fruição integral do intervalo intrajornada mínimo de uma hora]. Requer-se o pagamento das horas extras habituais com adicional de 50%, calculadas sobre a real remuneração da Reclamante (incluindo parcelas habituais), [e a indenização pela supressão parcial/total do intervalo intrajornada, nos termos do art. 71, § 4º, da CLT], sem prejuízo dos reflexos de praxe (ver cláusula 9).
+**Texto sugerido (texto modelo, estilo Tayná):**
+> Ao longo de todo o pacto laboral, a Reclamante laborava habitualmente em jornada extraordinária, cumprindo horário de [horário], sem que lhe fosse conferida a correta contraprestação pelas horas excedentes à 8ª diária e à 44ª semanal [, tampouco lhe sendo assegurada a fruição integral do intervalo intrajornada mínimo de uma hora]. Diante do exposto, requer-se o pagamento das horas extras habituais, com adicional de 50%, calculadas sobre a real remuneração da Reclamante, incluídas todas as parcelas de natureza salarial habitualmente percebidas, [bem como a indenização pela supressão parcial/total do intervalo intrajornada, nos termos do art. 71, § 4º, da CLT], sem prejuízo dos reflexos de praxe (ver cláusula 9).
 
 ---
 
@@ -277,8 +282,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Base legal:** art. 66 CLT.
 
-**Texto sugerido (texto modelo):**
-> A Reclamante não usufruía do intervalo mínimo de 11 (onze) horas consecutivas entre o término de uma jornada e o início da seguinte, conforme exige o art. 66 da CLT, o que gera direito ao pagamento das horas suprimidas como extraordinárias, com o respectivo adicional.
+**Texto sugerido (texto modelo, estilo Tayná):**
+> Verifica-se, ainda, que a Reclamante não usufruía do intervalo mínimo de 11 (onze) horas consecutivas entre o término de uma jornada de trabalho e o início da seguinte, em desrespeito ao disposto no art. 66 da CLT, o que lhe confere o direito ao pagamento, como horas extraordinárias, do período suprimido, acrescido do respectivo adicional e dos reflexos de praxe (ver cláusula 9).
 
 ---
 
@@ -300,8 +305,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Base legal:** Súmula 146 TST + cláusula de CCT sobre folga mensal.
 
-**Texto sugerido (texto modelo):**
-> A Reclamante laborava habitualmente aos domingos, sem a concessão da folga compensatória na forma prevista na cláusula [nº] da CCT [nome/período] e na Súmula 146 do TST, o que gera direito ao pagamento em dobro dos domingos trabalhados sem a devida compensação.
+**Texto sugerido (texto modelo, estilo Tayná):**
+> Registre-se, ainda, que a Reclamante laborava habitualmente aos domingos, sem que lhe fosse concedida a devida folga compensatória, na forma prevista na cláusula [nº] da CCT [nome/período] e na Súmula 146 do TST, circunstância que gera o direito ao pagamento em dobro dos domingos trabalhados sem a correspondente compensação.
 
 ---
 
@@ -381,8 +386,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Base legal:** arts. 511/570 CLT.
 
-**Texto sugerido (texto modelo):**
-> Requer-se o reconhecimento de que o correto enquadramento sindical da Reclamante, considerando a atividade preponderante da Reclamada e o local de prestação de serviços, é o correspondente à categoria [nome do sindicato/CCT], e não o [CCT aplicado incorretamente], com a aplicação das cláusulas normativas correspondentes, notadamente quanto a [pisos salariais/adicionais/multas convencionais].
+**Texto sugerido (texto modelo, estilo Tayná):**
+> Considerando a atividade preponderante efetivamente exercida pela Reclamada e o local de prestação dos serviços, impõe-se reconhecer que o correto enquadramento sindical da Reclamante corresponde à categoria [nome do sindicato/CCT], e não ao [CCT aplicado incorretamente pela empregadora]. Diante do exposto, requer-se o reconhecimento do enquadramento sindical correto, com a consequente aplicação das cláusulas normativas correspondentes, notadamente no que se refere a [pisos salariais/adicionais/multas convencionais].
 
 **Nota:** quando o empregado mudou de local/estado ao longo do contrato, pode ser necessário aplicar múltiplas CCTs por período — e formular pedido subsidiário de CCT alternativa, caso a atividade real seja controvertida.
 
@@ -393,8 +398,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Condição de procedência:** a CCT aplicável prevê multa específica (ex.: por desligamento em período de data-base, por descumprimento de cláusula específica) e há o fato gerador correspondente.
 
-**Texto sugerido (texto modelo):**
-> Nos termos da Cláusula [nº] da CCT [nome/período] aplicável à categoria, é devida multa convencional de [valor/percentual] em razão de [descrever o descumprimento, ex.: desligamento dentro de 30 dias da data-base].
+**Texto sugerido (texto modelo, estilo Tayná):**
+> Nos termos da Cláusula [nº] da Convenção Coletiva de Trabalho [nome/período] aplicável à categoria profissional da Reclamante, é devida multa convencional no valor/percentual de [valor/percentual], em razão de [descrever o descumprimento, ex.: desligamento da Reclamante dentro dos 30 dias que antecederam a data-base], cuja condenação ora se requer.
 
 ---
 
@@ -414,8 +419,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Base legal:** Súmula 451 TST.
 
-**Texto sugerido (texto modelo):**
-> Ainda que o contrato de trabalho tenha se encerrado antes da data de distribuição do [PPR/PLR/ILP] referente ao exercício de [ano], faz a Reclamante jus ao recebimento proporcional da parcela, nos termos da Súmula 451 do TST, tendo em vista que a rescisão não decorreu de justa causa e o período aquisitivo já havia transcorrido em parte.
+**Texto sugerido (texto modelo, estilo Tayná):**
+> Muito embora o contrato de trabalho tenha se encerrado antes da data de distribuição do [PPR/PLR/ILP] referente ao exercício de [ano], faz a Reclamante jus ao recebimento proporcional da respectiva parcela, nos termos da Súmula 451 do TST, porquanto a rescisão contratual não decorreu de justa causa e o período aquisitivo já havia transcorrido, ainda que parcialmente, ao tempo do desligamento.
 
 ---
 
@@ -424,8 +429,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Condição de procedência:** o cálculo rescisório usou só o salário fixo, ignorando parcelas habituais (adicional noturno, DSR noturno, comissões etc.) que deveriam compor a base.
 
-**Texto sugerido (texto modelo):**
-> O Termo de Rescisão do Contrato de Trabalho foi calculado com base apenas no salário fixo da Reclamante, sem considerar as parcelas habituais de natureza salarial recebidas ao longo do contrato ([especificar]), o que gera diferenças a serem apuradas em todas as verbas rescisórias (aviso-prévio, 13º, férias + 1/3, FGTS + 40%).
+**Texto sugerido (texto modelo, estilo Tayná):**
+> Verifica-se que o Termo de Rescisão do Contrato de Trabalho foi calculado com base unicamente no salário fixo da Reclamante, sem que fossem consideradas as parcelas habituais de natureza salarial por ela percebidas ao longo do pacto laboral, notadamente [especificar]. Tal omissão gera diferenças a serem apuradas em todas as verbas rescisórias correspondentes — aviso-prévio, 13º salário, férias acrescidas de 1/3 e FGTS com a multa de 40% —, cuja condenação ora se requer.
 
 ---
 
@@ -454,8 +459,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Base legal:** arts. 186/927 CC.
 
-**Texto sugerido (texto modelo):**
-> Em razão de [descrever o fato], a Reclamante suportou despesas de R$ [valor], conforme comprovantes anexos, as quais devem ser ressarcidas pela Reclamada a título de dano material, nos termos dos arts. 186 e 927 do Código Civil.
+**Texto sugerido (texto modelo, estilo Tayná):**
+> Em razão de [descrever o fato], a Reclamante suportou despesas no valor de R$ [valor], devidamente comprovadas pelos documentos anexos, as quais decorreram diretamente da conduta da Reclamada e devem por ela ser ressarcidas, a título de dano material, nos termos dos arts. 186 e 927 do Código Civil.
 
 ---
 
@@ -464,8 +469,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Condição de procedência:** desconto (ex.: empréstimo consignado) sem autorização comprovada do empregado.
 
-**Texto sugerido (texto modelo):**
-> Foram descontados da remuneração/TRCT da Reclamante os valores de R$ [valor] a título de [ex.: empréstimo consignado], sem que houvesse autorização válida para tanto, o que configura desconto indevido, devendo ser integralmente restituído.
+**Texto sugerido (texto modelo, estilo Tayná):**
+> Verifica-se que foram descontados da remuneração/TRCT da Reclamante os valores de R$ [valor], a título de [ex.: empréstimo consignado], sem que houvesse autorização válida e específica para tanto, o que configura desconto indevido, nos termos do art. 462 da CLT, devendo o respectivo montante ser integralmente restituído à Reclamante.
 
 ---
 
