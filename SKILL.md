@@ -113,6 +113,12 @@ Só aparecia na petição do Geovane (ausente nas outras 3), mas por decisão do
 ### 12. Provas (sempre, penúltimo item antes do valor da causa)
 > Protesta provar o alegado por todos os meios de prova em direito admitidos, em especial pelo depoimento pessoal do representante legal da Reclamada, oitiva de testemunhas, juntada de novos documentos e realização de perícia [médica/ergonômica/técnica, conforme o caso].
 
+## ⚠️ Alerta processual crítico: rito sumaríssimo exige valor líquido em TODO pedido
+
+Achado real (TRT10, ATSum 0000853-43.2026.5.10.0018, julho/2026): processo **extinto sem resolução do mérito** porque a petição inicial, no **rito sumaríssimo**, formulou pedidos (rescisão indireta, intervalo intrajornada) **sem atribuir valor líquido** a cada um. Fundamento: CLT art. 852-B, I e § 1º — no rito sumaríssimo, todo pedido precisa ter valor certo/determinado, e **não cabe emenda à inicial para corrigir isso depois** — a extinção é medida impositiva, não uma opção do juiz.
+
+**Regra**: antes de protocolar qualquer petição em rito sumaríssimo (causas de menor complexidade/valor — confirmar o teto de alçada vigente), conferir que **cada pedido individual** (não só o valor total da causa) tem uma cifra líquida atribuída — inclusive pedidos "colaterais" como rescisão indireta, intervalo intrajornada, adicional de transferência etc., que às vezes ficam sem valor destacado quando o foco está nas verbas principais. Cláusula universal 4 (valores meramente estimativos) não substitui isso — ela relativiza o valor final da condenação, mas não dispensa a necessidade de indicar um valor líquido a cada pedido no rito sumaríssimo.
+
 ## Observações de estilo entre advogados do escritório
 
 - **Dr. Paulo César Köhler (OAB/MT)**: petições mais enxutas, sem o bloco de Juízo 100% Digital, foco forte em meio ambiente do trabalho/acidente/doença ocupacional quando aplicável.

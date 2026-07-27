@@ -47,9 +47,18 @@ Argumentos já validados em 2 ações reais contra a Pague Menos (Geovane, Welly
 
 **Para qualquer reclamada que NÃO seja a Pague Menos**, este padrão específico não se aplica automaticamente — investigar a rotina real do caso concreto (mensagens, testemunhas, organograma) antes de alegar ausência de autonomia.
 
+### Contra-exemplo real onde a tese do reclamante PERDEU (TRT10, ROT 0001477-54.2024.5.10.0021, julho/2026 — Unilever)
+Importante calibrar expectativa: cargo de confiança foi **mantido como válido** (reclamante não teve as horas extras). Provas que sustentaram a defesa da empresa:
+- Reclamante coordenava equipe, aplicava advertências/suspensões, participava de desligamentos, assinava acordos comerciais em nome da empresa, tinha acesso privilegiado a sistemas corporativos.
+- **Existência de superior hierárquico acima do cargo não descaracteriza a confiança** — a Turma reconheceu que "a estrutura empresarial admite níveis sucessivos de gestão, sem afastar a autonomia decisória no âmbito da área coordenada". Ou seja: só porque o cliente respondia a um gerente regional/diretor, isso NÃO prova por si só ausência de autonomia (diferente do padrão Pague Menos, onde a autonomia real de fato não existia apesar do título).
+- **Uso de sistema com login/senha, monitoramento de metas ou rastreamento de veículo não equivale a controle de jornada** — a Turma rejeitou expressamente esse argumento.
+- Depoimento do preposto mencionando "horário usual" e possibilidade de compensação NÃO foi tratado como confissão de controle de jornada.
+
+**Como aplicar esse contra-exemplo**: antes de alegar ausência de autonomia (requisito subjetivo), checar se o cliente realmente NÃO tinha poder de decisão (contratar/demitir/disciplinar/assinar em nome da empresa) — não basta ter um chefe acima. E não construir a tese em cima só de "a empresa monitorava sistema/metas/veículo" — isso sozinho não convence o TRT10.
+
 ## 5. Adicionais
 
-- **Adicional de insalubridade** (Tayná, Wellynton/GR, Elenilde) — art. 189/192 CLT, NR-15 (Anexo 3 calor, Anexo 14 agentes biológicos); grau médio (20%) ou máximo (40%); pode ser cumulado ou opção pelo mais favorável frente à periculosidade (art. 193, §2º, CLT).
+- **Adicional de insalubridade** (Tayná, Wellynton/GR, Elenilde) — art. 189/192 CLT, NR-15 (Anexo 3 calor, Anexo 14 agentes biológicos); grau médio (20%) ou máximo (40%); **NÃO cumula com periculosidade, nem mesmo com fatos geradores distintos** — o trabalhador escolhe a mais favorável (art. 193, §2º, CLT — tese vinculante TST IRR-239-55.2011.5.02.0319, confirmada 2026-07, ver seção 10).
 - **Adicional de periculosidade** (Tayná) — atividade com risco elevado (grãos combustíveis).
 - **Adicional noturno + hora reduzida** (Elenilde, Tayná) — art. 73 CLT / cláusula de CCT.
 - **Adicional de transferência** (Wellynton/GR) — art. 469, §3º, CLT, 25% do salário enquanto durar a transferência provisória (menos de ~2 anos por praça, construção jurisprudencial).
@@ -102,7 +111,22 @@ Fonte: [TRT10 • XXXXX-20.2025.5.10.0111](https://www.jusbrasil.com.br/jurispru
 Confirma dano in re ipsa em acidente grave/condição degradante. Achado geográfico relevante: caso do MPT-MT (mesma região da carteira do escritório) de trabalhador em condições degradantes por 10+ anos, reparação concedida.
 Fonte: [Empregado em condições degradantes consegue reparação - MPT-MT](https://www.prt23.mpt.mp.br/procuradorias/prt-cuiaba/1096-empregado-submetido-a-condicoes-degradantes-de-trabalho-por-mais-de-10-anos-consegue-reparacao-na-justica), 2026-07.
 
-**Ainda não pesquisado / pendente de nova rodada**: adicional de insalubridade × periculosidade (cumulação com agentes distintos) — busca falhou por instabilidade da ferramenta, tentar de novo na próxima rodada.
+**Insalubridade × Periculosidade — MUDANÇA CONFIRMADA (não é observação em aberto — é tese vinculante já publicada)**
+Tese vinculante do TST em IRR-239-55.2011.5.02.0319 (Incidente de Recursos Repetitivos, publicada 2026): **cumulação PROIBIDA mesmo com fatos geradores distintos e autônomos** — art. 193 § 2º CLT recepcionado pela CF/88, o trabalhador só pode escolher a mais vantajosa. Isso **corrigiu um erro** que constava no item 5 deste catálogo (dizia "pode ser cumulado") — já corrigido lá. Não precisa esperar 30 decisões porque IRR é, por definição, o próprio mecanismo de confirmação/vinculação — vale a partir da publicação.
+Fonte: [Migalhas](https://www.migalhas.com.br/quentes/321320/tst-publica-tese-que-veda-acumulacao-dos-adicionais-de-periculosidade-e-de-insalubridade), [TST oficial](https://www.tst.jus.br/en/-/mec%C3%A2nico-n%C3%A3o-consegue-cumula%C3%A7%C3%A3o-dos-adicionais-de-insalubridade-e-periculosidade%C2%A0), [processo TRT3](https://portal.trt3.jus.br/internet/jurisprudencia/incidentes-suscitados-irr-iac-arginc-tst/downloads/irr/E_ED_RR_239_55_2011_5_02_0319.pdf), 2026-07.
+
+### Primeira leitura direta de decisões via DJEN (2026-07-27) — TRT10, amostra de 10 decisões lidas na íntegra
+
+Diferente das rodadas anteriores (que só liam resumos/notícias sobre jurisprudência), esta leitura foi **direto do texto integral** de sentenças/acórdãos publicados no DJEN entre jan-jul/2026, salvos com resumo + tags no banco `jurisprudencia.db` (ver README). Achados que já foram incorporados nas seções acima:
+- Contra-exemplo real de cargo de confiança perdido (Unilever) — incorporado na seção 4.
+- Alerta de rito sumaríssimo exigindo valor líquido por pedido — incorporado no `SKILL.md`.
+
+Outros padrões observados nesta amostra (ainda não geram mudança de tese, só registro):
+- **Padrão de múltiplas ações similares contra o mesmo empregador** (2 processos gêmeos, mesma vara/juiz/data, contra Companhia do Metropolitano do DF, sobre reconhecimento de anuênio como parcela salarial) — sinal de que vale a pena, ao pegar um caso novo contra um empregador que já aparece aqui, verificar se há outros processos irmãos que ajudem a calibrar expectativa.
+- **Tutela de urgência em rescisão indireta por assédio moral**: prova médica isolada (ex.: atendimento de emergência por crise hipertensiva ligada a estresse) **não basta** para liminar — juízo exige também prova testemunhal do assédio em si, não só do dano à saúde resultante. Relevante para gerenciar expectativa do cliente sobre pedido liminar (não é motivo pra deixar de pedir a tutela, só pra não prometer que vai ser deferida só com laudo médico).
+- **Tutela de urgência negada com frequência em geral** — em 4 dos 10 casos lidos havia pedido de tutela de urgência, e em nenhum deles foi deferida (rescisão indireta por abandono, por assédio moral, e pedido do EMPREGADOR pra suspender periculosidade). Padrão a observar em rodadas futuras: os TRTs parecem mais conservadores em liminar do que no mérito final.
+
+**Ainda pendente**: ler a amostra completa dos outros ~235 processos do TRT10 e os ~640 dos demais tribunais (TRT18/21/23) já baixados via DJEN — fica pra rotina automática continuar aos poucos (ver instrução atualizada no prompt da rotina agendada).
 
 ### OJs e enunciados de Jornada já confirmados (não são "observação em aberto", são norma/entendimento já consolidado)
 - **OJ 394 SDI-1/TST**: já documentada na cláusula 6 do SKILL.md (regra de reflexos sem bis in idem) — busca de 2026-07 confirma que segue vigente.
