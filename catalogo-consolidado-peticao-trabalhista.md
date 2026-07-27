@@ -1,0 +1,479 @@
+# Catálogo Consolidado — Petição Trabalhista (Amaral e Pessoa Advogados)
+
+Documento-modelo consolidando **todas** as cláusulas/teses identificadas até agora (gerais e específicas), a partir da comparação de 4 petições reais (Tayná/Köhler, Geovane/Wellynton/Elenilde/Cardoso — todas contra empresas distintas) + jurisprudência lida diretamente do DJEN (TRT10/TST).
+
+**Como usar**: ao montar uma petição nova, incluir SEMPRE os tópicos marcados **GERAL**. Para os marcados **ESPECÍFICO**, checar a condição de procedência contra os fatos do caso concreto antes de incluir — nunca copiar por padrão. Os "textos sugeridos" marcados como "texto real" vêm literalmente de uma das 4 petições-fonte (só adaptar nomes/valores); os marcados "texto modelo" foram redigidos com base na jurisprudência/base legal, seguindo o mesmo padrão de voz (estilo Tayná/Köhler — mais formal e elaborado), e devem ser revisados/ajustados caso a caso.
+
+---
+
+## Estrutura geral da petição (esqueleto — estilo Tayná, adotado como padrão do escritório)
+
+```
+I.   DA GRATUIDADE DA JUSTIÇA
+II.  DO CONTRATO DE TRABALHO E DA SÍNTESE LABORAL
+III. [BLOCO DE TESES ESPECÍFICAS DO CASO]
+IV.  DOS DIREITOS TRABALHISTAS, ADICIONAIS E DIFERENÇAS RESCISÓRIAS
+V.   DOS PEDIDOS E REQUERIMENTOS FINAIS
+```
+Cada subseção de pedido de mérito segue: fundamentação em prosa → jurisprudência/súmula → valor discriminado em bullets → "requer a condenação de R$ X, sem prejuízo de posterior apuração em liquidação".
+
+**⚠️ Alerta processual crítico (rito sumaríssimo)**: se a petição for protocolada em rito sumaríssimo, **todo pedido individual** precisa ter valor líquido atribuído (CLT art. 852-B, I e § 1º) — não cabe emenda depois, a extinção sem resolução do mérito é medida impositiva (confirmado em decisão real do TRT10, 2026). Conferir isso antes de protocolar, inclusive em pedidos "colaterais" (rescisão indireta, intervalo intrajornada etc.).
+
+---
+
+# PARTE 1 — CLÁUSULAS GERAIS (incluir sempre)
+
+## 1. Gratuidade da Justiça
+**Tipo:** GERAL
+
+**Texto sugerido (texto real, Tayná):**
+> A Reclamante não possui condições financeiras de arcar com as custas processuais, taxas judiciárias e honorários advocatícios sem o grave prejuízo do sustento próprio e de sua família. O contrato de trabalho mantido com a Reclamada foi rescindido imotivadamente, encontrando-se a empregada atualmente desempregada e sem fonte formal de renda para sua subsistência. Tal situação preenche de forma inequívoca os requisitos legais previstos no art. 790, §§ 3º e 4º, da CLT, bem como no art. 99, § 3º, do CPC e na Carta Magna (art. 5º, LXXIV).
+
+**Fundamento alternativo mais curto (texto real, variante Cardoso):** declaração de hipossuficiência assinada pelo reclamante/advogado basta — Súmula nº 463, I, do TST.
+
+---
+
+## 2. Valores meramente estimativos / não limitação da inicial
+**Tipo:** GERAL
+
+**Texto sugerido (texto modelo, redigido no estilo Tayná — a petição dela não tinha essa cláusula, foi recriada na mesma voz):**
+> Os valores atribuídos a cada um dos pedidos formulados nesta exordial possuem natureza meramente estimativa, servindo unicamente ao atendimento da exigência legal de indicação de valor certo aos pedidos, nos termos do art. 840, § 1º, da CLT. Não há, portanto, que se falar em limitação da condenação aos montantes ora apresentados, porquanto a apuração exata e definitiva das verbas eventualmente deferidas depende da regular instrução processual, da produção das provas cabíveis e da liquidação de sentença, momento processual próprio para a definição precisa do quantum debeatur.
+
+**Variações históricas (texto real, Cardoso — usar só como referência, não mais como padrão):**
+- Versão longa (Geovane): "Quanto à limitação dos valores indicados na petição inicial, ressalta-se que estes possuem caráter meramente estimativo [...]"
+- Versão curta (Wellynton/GR, Elenilde): "Requer que sejam feitos todos os cálculos corretamente para liquidação dos valores na sentença, pois os pedidos são valores estimados, valores mais exatos serão apresentados na fase de liquidação da sentença."
+
+---
+
+## 3. Honorários advocatícios de sucumbência
+**Tipo:** GERAL — padronizado em **20%**
+
+**Texto sugerido (texto real, Tayná — adotado como padrão do escritório daqui em diante):**
+> Requer a condenação da Reclamada ao pagamento de honorários advocatícios sucumbenciais, no importe de 20% (vinte por cento) sobre o valor da condenação/liquidação, nos termos do art. 791-A da CLT.
+
+*(As petições de Cardoso usavam 15% — decisão do escritório é padronizar em 20% independentemente de qual advogado assina.)*
+
+---
+
+## 4. Intimações exclusivamente em nome do advogado
+**Tipo:** GERAL — decisão do escritório: manter sempre, adaptando nome/OAB para quem assinar
+
+**Texto sugerido (texto real, Geovane — padrão de preenchimento: Dr. Evandro Rodrigues Cardoso, OAB/DF 75.805; adaptar se outro advogado assinar):**
+> Requer que todas as intimações e publicações sejam feitas EXCLUSIVAMENTE em nome do advogado [NOME], OAB/[UF] [Nº], sob pena de nulidade do ato.
+
+---
+
+## 5. Provas
+**Tipo:** GERAL — penúltimo item antes do valor da causa
+
+**Texto sugerido (texto real, Tayná):**
+> Provará o alegado por todos os meios de prova em direito admitidos, em especial pelo depoimento pessoal do representante legal da Reclamada, oitiva de testemunhas, juntada de novos documentos e realização de perícia [médica/ergonômica/técnica, conforme o caso].
+
+---
+
+# PARTE 2 — CLÁUSULAS ESPECÍFICAS (só incluir se os fatos do caso sustentarem)
+
+## 6. Juízo 100% Digital
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** advogado responsável pela assinatura da petição é o Dr. Evandro Rodrigues Cardoso (variante pessoal dele — não aparece nas petições do Dr. Köhler). Perguntar sempre qual advogado assina antes de incluir.
+
+**Texto sugerido (texto real, Cardoso):**
+> A parte autora manifesta interesse pela adesão ao JUÍZO 100% digital de acordo com a forma adotada pela Resolução nº 345/2020 do CNJ.
+*(seguido de bloco com nome/e-mail/telefone do patrono e do reclamante)*
+
+---
+
+## 7. Segredo de Justiça
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** há documento médico/psiquiátrico sensível anexado aos autos (atestados, laudos, prontuários que tratem da saúde física/mental do reclamante).
+
+**Texto sugerido (texto modelo):**
+> Considerando que a presente ação envolve documentos médicos e atestados que tratam da saúde [mental/física] do Reclamante, requer-se, com fundamento no art. 189 do CPC, a tramitação do processo em segredo de justiça, restringindo-se o acesso aos autos às partes e a seus respectivos procuradores.
+
+---
+
+## 8. Integração das verbas para fins de cálculo / primazia da realidade
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** há parcela variável habitual não integrada à remuneração para todos os fins (comissão, gratificação, prêmio, "pagamento por fora"/salário extraoficial).
+
+**Texto sugerido (texto real, Cardoso):**
+> O valor a ser considerado como base de cálculo para todos os fins deve corresponder à verdadeira remuneração recebida pelo Reclamante, em conformidade com o princípio da primazia da realidade, segundo o qual a realidade dos fatos prevalece sobre a forma ou a documentação que, porventura, não a reflita adequadamente.
+
+**Jurisprudência-padrão (texto real, citar literalmente):**
+> "AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. [...] A averiguação se dá em cada caso, em respeito ao princípio da primazia da realidade, segundo o qual se deve analisar a prática concreta efetivada ao longo da prestação de serviços, independentemente da vontade eventualmente manifestada pelas partes ou ao previsto em instrumento escrito que, porventura, não correspondam à realidade. Agravo desprovido" (Ag-AIRR-1600-43.2017.5.17.0008, 3ª Turma, Relator Ministro Mauricio Godinho Delgado, DEJT 04/10/2024).
+
+---
+
+## 9. Cadeia padrão de reflexos
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** há qualquer pedido de verba de natureza salarial/habitual (horas extras, adicional noturno, insalubridade, periculosidade, adicional de transferência, dobra de domingo, diferenças salariais etc.) — quando presente, aplicar a cadeia abaixo, não pedir a verba "seca".
+
+**Núcleo (sempre que houver a verba-gatilho):**
+1. DSR (Descanso Semanal Remunerado) — Súmula 172 TST
+2. 13º salário (proporcional ou integral)
+3. Férias + 1/3 constitucional
+4. FGTS + multa de 40%
+5. Aviso-prévio (quando há rescisão)
+6. Multa do art. 477 CLT (quando há rescisão em atraso/reconhecida judicialmente)
+
+**Itens estendidos (só se o fato correspondente existir):**
+- Horas extras + DSR sobre essas horas extras, quando a verba pleiteada integra a base de cálculo de horas extras já pagas/pleiteadas (reflexo de 2ª ordem).
+- Multas convencionais da CCT aplicável, se prevista com base salarial.
+- ILP/Bônus Anual/PPR/PLR, se o empregador tiver programa de participação em resultados.
+
+**Fundamento legal:** Súmula 172 TST + OJ SDI-I 394 TST (reflexo sem bis in idem, aplicável a horas extras a partir de 20/03/2023) + Súmula 264 TST / art. 457 CLT.
+
+**⚠️ Regra de ouro contra bis in idem:** quando duas ou mais verbas pleiteadas compartilham parte da cadeia de reflexos, calcular o reflexo completo **uma única vez** no tópico "âncora" e, nos demais, apenas referenciar "vide tópico específico" — sinalizar isso explicitamente no rascunho.
+
+---
+
+## 10. Multa do art. 477 da CLT
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** há verba rescisória em atraso, OU rescisão indireta/reversão de justa causa reconhecida judicialmente (a multa se torna exigível mesmo que o reconhecimento seja posterior — Tema 52 dos Recursos Repetitivos do TST).
+
+**Texto sugerido (texto modelo):**
+> A Reclamada deixou de quitar, no prazo legal de 10 dias, as verbas rescisórias devidas à Reclamante, nos termos do art. 477, §§ 6º e 8º, da CLT, o que enseja a aplicação da respectiva multa, no valor equivalente ao salário da Reclamante.
+
+---
+
+## 11. Multa do art. 467 da CLT
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** há controvérsia sobre o montante exato das verbas rescisórias (a Reclamada pode contestar valores).
+
+**Texto sugerido (texto real, adaptado):**
+> Caso a Reclamada não efetue o pagamento das verbas rescisórias incontroversas na primeira audiência, requer-se a aplicação da multa prevista no art. 467 da CLT, no percentual de 50% sobre as verbas rescisórias incontroversas reconhecidas nos autos.
+
+---
+
+## 12. Seguro-desemprego
+**Tipo:** ESPECÍFICO — **NÃO incluir por padrão, verificar qual dos 3 cenários se aplica**
+
+**Condições de procedência (qualquer uma das 3, não é cumulativo):**
+1. **Reclassificação do motivo da dispensa** (pedido de demissão → rescisão indireta, ou justa causa → sem justa causa) — o empregador negou as guias com base na classificação original; a reclassificação judicial reabre o direito.
+2. **Guias não entregues mesmo em dispensa sem justa causa "normal"** (falha administrativa do empregador, sem reclassificação nenhuma) — perguntar sempre ao cliente se recebeu as guias.
+3. **Diferença de seguro-desemprego por verbas remuneratórias novas reconhecidas na ação** — quando a ação reconhece verbas que deveriam ter integrado a média salarial usada para calcular o benefício, gerando direito à diferença (respeitando o teto da tabela vigente).
+
+Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.998/90 (tempo mínimo trabalhado, se é 1ª/2ª/3ª solicitação, ausência de renda própria).
+
+**Texto sugerido — cenário 1 (texto real, Geovane, adaptar):**
+> Requer o Reclamante, diante do reconhecimento da conversão [do pedido de demissão / da justa causa] em [rescisão indireta / dispensa sem justa causa], com efeitos equivalentes à dispensa sem justa causa, a concessão do benefício do seguro-desemprego, conforme previsão da Lei nº 7.998/90. Diante do exposto, requer a condenação da Reclamada à entrega das guias do seguro-desemprego ou, em caso de impossibilidade de habilitação administrativa por culpa exclusiva da Reclamada, ao pagamento direto do valor total correspondente às parcelas devidas, no teto vigente da tabela, a título de indenização substitutiva.
+
+---
+
+## 13. Reconhecimento de vínculo anterior ao registro em CTPS
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** há prova de prestação de serviço antes da data formalmente anotada em CTPS.
+
+**Base legal:** art. 29 CLT.
+
+**Texto sugerido (texto modelo):**
+> Requer o reconhecimento do vínculo empregatício desde [data real de início da prestação de serviços], com a devida retificação da CTPS, tendo em vista que, muito embora a anotação formal indique [data anotada], a prova dos autos demonstra que a Reclamante já prestava serviços à Reclamada desde a data ora informada.
+
+---
+
+## 14. Reversão de pedido de demissão em rescisão indireta
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** falta grave do empregador (Temas 70 e 85 TST: FGTS irregular e horas extras habituais não pagas configuram falta grave, autorizando rescisão indireta mesmo sem imediatidade — Tema 70).
+
+**Texto sugerido (texto modelo, art. 483 CLT):**
+> Diante dos reiterados descumprimentos contratuais praticados pela Reclamada — [especificar: FGTS não depositado / salários em atraso / etc.] —, requer-se o reconhecimento da rescisão indireta do contrato de trabalho, nos termos do art. 483 da CLT, com a produção de todos os efeitos de uma dispensa sem justa causa.
+
+**⚠️ Contra-indicação processual:** se a petição for protocolada em rito sumaríssimo, este pedido precisa ter valor líquido atribuído (ver alerta no topo do documento) — já houve extinção sem mérito por esse motivo (TRT10, 2026).
+
+---
+
+## 15. Reversão de justa causa para dispensa sem justa causa
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** desproporcionalidade da penalidade, intempestividade (princípio da imediatidade — penalidade aplicada muito tempo depois do fato sugere tolerância presumida), ausência de histórico disciplinar/gradação de penalidades anteriores.
+
+**Texto sugerido (texto modelo):**
+> A penalidade de justa causa aplicada à Reclamante é manifestamente desproporcional [e intempestiva], porquanto [não houve gradação disciplinar prévia / a penalidade foi aplicada [X] meses após o fato alegado, evidenciando o perdão tácito da empregadora]. Requer-se, assim, a reversão da justa causa para dispensa sem justa causa, com todos os efeitos legais daí decorrentes.
+
+---
+
+## 16. Tutela de urgência para decretação imediata de rescisão indireta
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** risco de dano de difícil reparação (ex.: sem FGTS liberado, sem renda) — art. 300 CPC.
+
+**⚠️ Calibrar expectativa:** jurisprudência real lida (TRT10, 2026) mostra tutelas de urgência sendo **negadas com frequência** nesse tipo de pedido, mesmo com prova médica de dano à saúde — o juízo costuma exigir prova testemunhal/contraditório completo para casos com "contornos subjetivos" (ex.: assédio moral), não bastando só documento médico do evento agudo.
+
+**Texto sugerido (texto real, Elenilde, adaptado):**
+> Diante de todo o exposto, inclusive por reiterados descumprimentos contratuais reconhecidos em temas repetitivos pelo TST, requer, em sede de tutela de urgência antecipada, a decretação imediata da rescisão indireta, com o pagamento das devidas verbas rescisórias, a liberação das guias do seguro-desemprego, chave de conectividade do FGTS e levantamento do saldo fundiário, com a autorização para saque do FGTS com a multa de 40%, tendo em vista o manifesto prejuízo à Reclamante e o risco de dano de difícil reparação caso se aguarde o trânsito em julgado.
+
+---
+
+## 17. Acidente de trabalho típico + ausência de emissão de CAT
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** ⚠️ **NÃO PRESUMIR** — é alegação factual grave. Verificar antes com o cliente/documentos se a CAT foi ou não emitida. Se foi emitida, a tese não se aplica dessa forma (a omissão em si deixa de existir, embora outras teses sobre o acidente possam persistir).
+
+**Base legal:** art. 22, Lei 8.213/91.
+
+**Texto sugerido (texto modelo):**
+> Em [data], a Reclamante sofreu acidente de trabalho típico, consistente em [descrever o fato], decorrente de falha de segurança nas dependências da Reclamada — [descrever a condição insegura, ex.: piso com peças soltas]. Não obstante a gravidade do ocorrido, a Reclamada não procedeu à emissão da Comunicação de Acidente de Trabalho (CAT), em violação ao art. 22 da Lei 8.213/91, o que se requer seja determinado por este Juízo, de ofício ou mediante expedição de ofício ao INSS.
+
+---
+
+## 18. Doença ocupacional / equiparação a acidente de trabalho
+**Tipo:** ESPECÍFICO — tese INDEPENDENTE do item 17 (podem coexistir sobre fatos diferentes)
+
+**Condição de procedência:** requer laudo médico com nexo causal ou concausal entre a doença e a atividade laboral. Verificar também, separadamente, se há ou não CAT para a doença (independente da CAT do acidente típico, se houver).
+
+**Base legal:** art. 20, II, Lei 8.213/91.
+
+**Texto sugerido (texto modelo):**
+> A Reclamante é portadora de [diagnóstico, ex.: hérnia discal lombar — CID M51], conforme laudo médico anexo, moléstia que guarda nexo causal/concausal com as atividades laborais desempenhadas junto à Reclamada, em razão de [sobrecarga mecânica repetitiva / esforço físico habitual da função], nos termos do art. 20, II, da Lei 8.213/91, que equipara a doença profissional/do trabalho ao acidente de trabalho típico para todos os efeitos legais.
+
+---
+
+## 19. Condições degradantes no intervalo intrajornada
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** prova concreta (fotográfica, testemunhal) de local de descanso inadequado — violação à NR-24 e à dignidade da pessoa humana.
+
+**Texto sugerido (texto modelo):**
+> Durante todo o período contratual, a Reclamante não dispunha de local adequado para usufruir do intervalo intrajornada, sendo compelida a descansar [em local inapropriado, ex.: no chão do vestiário/banheiro], conforme comprovam as fotografias anexas, em manifesta violação à NR-24 e ao princípio da dignidade da pessoa humana (art. 1º, III, CRFB/88), o que configura dano moral a ser indenizado.
+
+---
+
+## 20. Estabilidade provisória acidentária
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** afastamento por acidente/doença ocupacional com nexo reconhecido — 12 meses de garantia no emprego contados do retorno.
+
+**Base legal:** art. 118, Lei 8.213/91; Súmula 378, II, TST.
+
+**Texto sugerido (texto modelo):**
+> Em razão do acidente/doença ocupacional acima descrito, faz a Reclamante jus à estabilidade provisória prevista no art. 118 da Lei 8.213/91 e na Súmula 378, II, do TST, pelo período de 12 (doze) meses a contar da cessação do auxílio previdenciário. Não havendo condições de reintegração, requer-se a conversão em indenização substitutiva correspondente aos salários e demais vantagens do período estabilitário.
+
+---
+
+## 21. Horas extras habituais + intervalo intrajornada suprimido
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** jornada extraordinária habitual comprovável (cartão de ponto, testemunhas, mensagens) e/ou supressão do intervalo mínimo.
+
+**Base legal:** art. 7º, XIII e XVI, CF; art. 59/71 CLT; base de cálculo com todas as verbas habituais (Súmula 264 TST, art. 457 CLT).
+
+**Texto sugerido (texto modelo):**
+> A Reclamante laborava habitualmente em jornada extraordinária, de [horário], sem a correta contraprestação pelas horas excedentes à 8ª diária/44ª semanal, [e sem a fruição integral do intervalo intrajornada mínimo de uma hora]. Requer-se o pagamento das horas extras habituais com adicional de 50%, calculadas sobre a real remuneração da Reclamante (incluindo parcelas habituais), [e a indenização pela supressão parcial/total do intervalo intrajornada, nos termos do art. 71, § 4º, da CLT], sem prejuízo dos reflexos de praxe (ver cláusula 9).
+
+---
+
+## 22. Intervalo interjornada suprimido
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** menos de 11h entre o fim de uma jornada e o início da seguinte.
+
+**Base legal:** art. 66 CLT.
+
+**Texto sugerido (texto modelo):**
+> A Reclamante não usufruía do intervalo mínimo de 11 (onze) horas consecutivas entre o término de uma jornada e o início da seguinte, conforme exige o art. 66 da CLT, o que gera direito ao pagamento das horas suprimidas como extraordinárias, com o respectivo adicional.
+
+---
+
+## 23. Natureza indenizatória do intervalo intrajornada pós-Reforma
+**Tipo:** ESPECÍFICO — nota técnica, não é bem uma "tese" a incluir, mas uma regra de cálculo a observar
+
+**Condição de procedência:** pedidos relativos a intervalo intrajornada suprimido para contratos/períodos pós Lei 13.467/2017.
+
+**Base legal:** art. 71, § 4º, CLT.
+
+**Observação (não é cláusula de petição, é regra de cálculo):** o valor do intervalo suprimido tem natureza indenizatória e NÃO integra a base de cálculo de outras verbas (diferente de antes da Reforma) — não incluir no núcleo da cadeia de reflexos (cláusula 9), gera só a sua própria indenização.
+
+---
+
+## 24. Dobra de domingos trabalhados
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** trabalho habitual aos domingos sem a folga compensatória prevista em CCT/Súmula.
+
+**Base legal:** Súmula 146 TST + cláusula de CCT sobre folga mensal.
+
+**Texto sugerido (texto modelo):**
+> A Reclamante laborava habitualmente aos domingos, sem a concessão da folga compensatória na forma prevista na cláusula [nº] da CCT [nome/período] e na Súmula 146 do TST, o que gera direito ao pagamento em dobro dos domingos trabalhados sem a devida compensação.
+
+---
+
+## 25. Nulidade do enquadramento como cargo de confiança / descaracterização da gerência
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** ausência de QUALQUER UM dos dois requisitos cumulativos do art. 62, II, CLT já descaracteriza — analisar os dois separadamente:
+
+**a) Requisito objetivo (gratificação ≥ 40% do salário-base) — sempre calcular, nunca presumir:**
+1. Teste formal: `gratificação de função ÷ salário-base do mesmo holerite pós-promoção ≥ 40%`.
+2. Teste de primazia da realidade (cross-check obrigatório): comparar o TOTAL recebido ANTES da promoção contra o TOTAL recebido depois — o aumento real precisa ser ≥ 40%. A empresa pode reclassificar rubricas na promoção pra forçar o teste formal bater sem o ganho total ter mudado — se os dois testes divergirem, é indício de fraude na composição das rubricas.
+3. Parâmetro auxiliar: piso salarial da categoria/região na CCT aplicável, quando possível.
+
+**b) Requisito subjetivo (poderes reais de mando/gestão):**
+- **Se a reclamada for a Pague Menos**: reaproveitar o padrão já validado em 2 ações reais — a empresa estrutura seus "gerentes" sempre sem autonomia real (sempre precisam de autorização de gerência regional/RH/diretor de operações; sem poder de contratar/demitir/disciplinar/definir metas; prova típica: WhatsApp reportando problemas e pedindo autorização).
+- **Para qualquer outra reclamada**: investigar a rotina real do caso concreto — não presumir ausência de autonomia.
+
+**⚠️ Contra-exemplo real onde a tese PERDEU (TRT10, Unilever, 2026):** cargo de confiança foi mantido válido porque o reclamante coordenava equipe, aplicava advertências/suspensões, participava de desligamentos, assinava acordos comerciais e tinha acesso privilegiado a sistemas. Duas lições importantes: **(1)** existência de superior hierárquico acima do cargo NÃO descaracteriza a confiança por si só (estrutura com níveis sucessivos de gestão é admitida); **(2)** uso de sistema com login/senha, monitoramento de metas ou rastreamento de veículo NÃO equivale a controle de jornada — não construir a tese só nisso.
+
+**Texto sugerido (texto modelo):**
+> A Reclamante, muito embora formalmente investida no cargo de [gerente/supervisora], jamais exerceu poderes reais de mando e gestão, na forma exigida pelo art. 62, II, da CLT. Toda e qualquer decisão relevante — contratação, dispensa, aplicação de penalidades disciplinares, definição de metas — dependia de autorização prévia de [gerência regional/superior hierárquico], conforme demonstram as mensagens anexas. Ademais, a gratificação de função percebida pela Reclamante correspondia a apenas [X]% do salário-base, muito aquém do mínimo de 40% exigido pelo parágrafo único do art. 62 da CLT, o que, por si só, já afasta o enquadramento na exceção legal.
+
+---
+
+## 26. Adicional de insalubridade
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** exposição a agente insalubre conforme NR-15 (ex.: Anexo 3 — calor; Anexo 14 — agentes biológicos), com prova pericial.
+
+**⚠️ NÃO cumula com periculosidade, nem mesmo com fatos geradores distintos e autônomos** — tese vinculante do TST em IRR-239-55.2011.5.02.0319 (confirmada 2026): o trabalhador só pode escolher o adicional mais vantajoso (art. 193, § 2º, CLT). Não pedir cumulação mesmo diante de dois riscos claramente diferentes.
+
+**Base legal:** art. 189/192 CLT; NR-15.
+
+**Texto sugerido (texto modelo):**
+> A Reclamante exercia suas atividades em condições insalubres, em grau [médio/máximo], por exposição a [agente, ex.: calor/agente biológico], nos termos do Anexo [nº] da NR-15, fazendo jus ao adicional de insalubridade de [20%/40%] sobre o salário mínimo, com os reflexos de praxe (cláusula 9), a ser apurado mediante perícia técnica.
+
+---
+
+## 27. Adicional de periculosidade
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** atividade com risco elevado nos termos do art. 193 CLT (ex.: inflamáveis, explosivos, energia elétrica, risco de assalto). Lembrar: não cumula com insalubridade (ver cláusula 26).
+
+**Texto sugerido (texto modelo):**
+> A Reclamante exercia suas funções em condições de periculosidade, em razão de [descrever o risco, ex.: manuseio de produtos inflamáveis/armazenagem de grãos combustíveis], nos termos do art. 193 da CLT, fazendo jus ao adicional de 30% sobre o salário base, com os reflexos de praxe (cláusula 9).
+
+---
+
+## 28. Adicional noturno + hora reduzida noturna
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** trabalho habitual entre 22h e 5h.
+
+**Base legal:** art. 73 CLT (adicional de 20%) ou cláusula de CCT com percentual superior.
+
+**Texto sugerido (texto modelo):**
+> A Reclamante laborava habitualmente em horário noturno, entre 22h e 5h, sem o correto pagamento do adicional noturno de [20%/percentual da CCT] e sem a computação da hora noturna reduzida (52min30s), nos termos do art. 73 da CLT, com os reflexos de praxe (cláusula 9).
+
+---
+
+## 29. Adicional de transferência
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** transferência provisória (a provisoriedade é o que garante o direito — construção jurisprudencial de ~menos de 2 anos por praça; se a transferência já é definitiva, a tese muda).
+
+**Base legal:** art. 469, § 3º, CLT — 25% do salário enquanto durar.
+
+**Texto sugerido (texto modelo):**
+> Em razão da transferência provisória determinada pela Reclamada para [local], sem a devida anuência da Reclamante e sem que a mudança tenha caráter definitivo, faz jus ao adicional de transferência de 25% sobre o salário, nos termos do art. 469, § 3º, da CLT, pelo período em que perdurou a transferência, com os reflexos de praxe.
+
+---
+
+## 30. Enquadramento sindical e aplicabilidade da CCT
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** a CCT aplicada pela empresa não corresponde à atividade real do empregado/local de prestação de serviço.
+
+**Base legal:** arts. 511/570 CLT.
+
+**Texto sugerido (texto modelo):**
+> Requer-se o reconhecimento de que o correto enquadramento sindical da Reclamante, considerando a atividade preponderante da Reclamada e o local de prestação de serviços, é o correspondente à categoria [nome do sindicato/CCT], e não o [CCT aplicado incorretamente], com a aplicação das cláusulas normativas correspondentes, notadamente quanto a [pisos salariais/adicionais/multas convencionais].
+
+**Nota:** quando o empregado mudou de local/estado ao longo do contrato, pode ser necessário aplicar múltiplas CCTs por período — e formular pedido subsidiário de CCT alternativa, caso a atividade real seja controvertida.
+
+---
+
+## 31. Multas convencionais previstas em CCT
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** a CCT aplicável prevê multa específica (ex.: por desligamento em período de data-base, por descumprimento de cláusula específica) e há o fato gerador correspondente.
+
+**Texto sugerido (texto modelo):**
+> Nos termos da Cláusula [nº] da CCT [nome/período] aplicável à categoria, é devida multa convencional de [valor/percentual] em razão de [descrever o descumprimento, ex.: desligamento dentro de 30 dias da data-base].
+
+---
+
+## 32. Integração de comissões/gratificações/prêmios habituais
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** parcela variável paga com habitualidade que não foi integrada à remuneração para todos os fins — ver também cláusula 8 (mesma lógica, aqui com o detalhamento das rubricas específicas do caso).
+
+**Texto sugerido:** ver cláusula 8, adaptando para a rubrica específica identificada nos documentos do cliente (contracheques, extratos).
+
+---
+
+## 33. PPR/PLR proporcional
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** existe programa de participação em resultados/lucros da empresa, e o contrato foi rescindido antes da distribuição.
+
+**Base legal:** Súmula 451 TST.
+
+**Texto sugerido (texto modelo):**
+> Ainda que o contrato de trabalho tenha se encerrado antes da data de distribuição do [PPR/PLR/ILP] referente ao exercício de [ano], faz a Reclamante jus ao recebimento proporcional da parcela, nos termos da Súmula 451 do TST, tendo em vista que a rescisão não decorreu de justa causa e o período aquisitivo já havia transcorrido em parte.
+
+---
+
+## 34. Diferenças na base remuneratória do TRCT
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** o cálculo rescisório usou só o salário fixo, ignorando parcelas habituais (adicional noturno, DSR noturno, comissões etc.) que deveriam compor a base.
+
+**Texto sugerido (texto modelo):**
+> O Termo de Rescisão do Contrato de Trabalho foi calculado com base apenas no salário fixo da Reclamante, sem considerar as parcelas habituais de natureza salarial recebidas ao longo do contrato ([especificar]), o que gera diferenças a serem apuradas em todas as verbas rescisórias (aviso-prévio, 13º, férias + 1/3, FGTS + 40%).
+
+---
+
+## 35. Danos morais
+**Tipo:** ESPECÍFICO — múltiplos fundamentos possíveis, um caso pode ter mais de um
+
+**Condição de procedência:** conforme o fundamento específico:
+- Doença ocupacional/acidente sem CAT/condições degradantes → dano in re ipsa (não precisa provar o sofrimento em si).
+- Jornada excessiva com privação de convívio familiar.
+- Justa causa abusiva / distância da família (transferências).
+- Assédio moral — **atenção**: mesmo com prova médica do dano à saúde (ex.: crise hipertensiva), jurisprudência real (TRT10, 2026) mostra que isso sozinho não basta para tutela de urgência — precisa também de prova testemunhal do assédio em si.
+
+**⚠️ Cautela importante (enunciados ANAMATRA, confirmado 2026):** descumprimento contratual simples (ex.: atraso de pagamento isolado) **NÃO gera dano moral por si só** — sempre narrar o "algo a mais" (condição degradante, saúde mental, discriminação, prática reiterada) explicitamente, não só listar o inadimplemento.
+
+**Base legal:** arts. 223-A a 223-G CLT; arts. 186/927 CC.
+
+**Texto sugerido (texto modelo, adaptar ao fundamento):**
+> A Reclamante foi submetida a [descrever a conduta: condição degradante / acidente sem assistência adequada / assédio moral reiterado / jornada exaustiva], o que configura violação aos direitos da personalidade e à dignidade da trabalhadora, ensejando o dever de indenizar por dano moral, nos termos dos arts. 223-A a 223-G da CLT, sendo o dano presumido (in re ipsa) diante da gravidade dos fatos narrados. Requer-se a condenação da Reclamada ao pagamento de indenização por danos morais no valor de R$ [X], ou outro que Vossa Excelência entender adequado.
+
+---
+
+## 36. Dano material por despesas de mudança frustrada
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** despesas comprovadas (transporte, passagens) decorrentes de transferência determinada pela empresa que não se concretizou como prometido, ou outra frustração similar comprovável.
+
+**Base legal:** arts. 186/927 CC.
+
+**Texto sugerido (texto modelo):**
+> Em razão de [descrever o fato], a Reclamante suportou despesas de R$ [valor], conforme comprovantes anexos, as quais devem ser ressarcidas pela Reclamada a título de dano material, nos termos dos arts. 186 e 927 do Código Civil.
+
+---
+
+## 37. Desconto indevido em folha/TRCT
+**Tipo:** ESPECÍFICO
+
+**Condição de procedência:** desconto (ex.: empréstimo consignado) sem autorização comprovada do empregado.
+
+**Texto sugerido (texto modelo):**
+> Foram descontados da remuneração/TRCT da Reclamante os valores de R$ [valor] a título de [ex.: empréstimo consignado], sem que houvesse autorização válida para tanto, o que configura desconto indevido, devendo ser integralmente restituído.
+
+---
+
+# Anexo — Metodologia de atualização e fontes
+
+Este documento consolida o conteúdo de dois arquivos vivos deste repositório, que continuam sendo atualizados pela rotina automática diária de leitura de jurisprudência:
+- `SKILL.md` — estrutura + cláusulas gerais (Parte 1 deste documento).
+- `catalogo-teses-especificas.md` — teses condicionais + seção de jurisprudência monitorada (Parte 2 deste documento).
+- `jurisprudencia.db` — banco de decisões lidas na íntegra (resumo + tags + provas destacadas), fonte dos contra-exemplos e alertas processuais aqui citados.
+
+Sempre que a rotina automática (ou uma leitura manual) confirmar uma mudança de tese ou encontrar um novo contra-exemplo relevante, **este documento consolidado também deve ser atualizado**, não só os arquivos-fonte — ele existe pra ser o "modelo" de consulta rápida, então precisa ficar sincronizado.
