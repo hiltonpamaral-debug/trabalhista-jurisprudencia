@@ -602,6 +602,8 @@ Classificação do tipo de prova necessária para cada tópico do catálogo — 
 
 **Aplicação prática**: ao montar o capítulo de provas da petição (cláusula 5) e o rol de testemunhas, cruzar contra essa matriz — todo pedido marcado com **PER** precisa vir acompanhado do requerimento de perícia (e, se pertinente, dos quesitos periciais); todo pedido com **PT forte** precisa de testemunhas específicas arroladas, não só genéricas.
 
+**Modelo de pedido (itens PER)**: no resumo prático/lista de tópicos da petição, todo item marcado **PER** deve vir com uma única linha de pedido de prova, no padrão — "Requer a realização de perícia [técnica/médica] para fins de dirimir o exercício de atividade insalubre/periculosa/doença ocupacional (com base no contexto fático da ação)" — ajustando modalidade (técnica/médica) e o agente/fundamento ao caso concreto, sem outros comentários ou ressalvas na mesma linha.
+
 ---
 
 # Anexo — Metodologia de atualização e fontes
