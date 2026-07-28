@@ -27,6 +27,8 @@ Cada subseção de pedido de mérito segue: fundamentação em prosa → jurispr
 TOTAL: R$ 17.570,00
 ```
 
+**Padrão de formatação do Word** (fonte Times New Roman 12pt, justificado, recuo de primeira linha ~0,78cm na prosa mas não em títulos/bullets/TOTAL, negrito só nas linhas TOTAL/valor da causa/assinatura, ~3 parágrafos de fundamentação por subseção de mérito antes do bloco de bullets): ver seção dedicada em `SKILL.md`, confirmado por inspeção direta da petição real da Tayná (27/07/2026).
+
 **⚠️ Alerta processual crítico (rito sumaríssimo)**: se a petição for protocolada em rito sumaríssimo, **todo pedido individual** precisa ter valor líquido atribuído (CLT art. 852-B, I e § 1º) — não cabe emenda depois, a extinção sem resolução do mérito é medida impositiva (confirmado em decisão real do TRT10, 2026). Conferir isso antes de protocolar, inclusive em pedidos "colaterais" (rescisão indireta, intervalo intrajornada etc.).
 
 ---

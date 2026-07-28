@@ -131,7 +131,7 @@ Verificado contra as 4 petições-fonte: aparece em Geovane, Wellynton/GR e Elen
 Ainda assim, antes de pedir, confirmar com o cliente os requisitos de carência da Lei 7.998/90 (tempo mínimo trabalhado, se é a 1ª/2ª/3ª solicitação, ausência de renda própria suficiente) — são fatos específicos do caso, não presumir.
 
 ### 10. Honorários advocatícios de sucumbência (universal — padronizado em 15%, o teto legal)
-15% sobre o valor da condenação/liquidação, art. 791-A da CLT — **correção**: o artigo fixa o percentual entre 5% e 15%, então 15% já é o MÁXIMO permitido; a petição da Tayná usava 20%, que excede o teto legal (provável erro da própria petição-fonte). Adotar 15% como padrão do escritório daqui em diante, independente de qual advogado assina.
+15% sobre o valor da condenação/liquidação, art. 791-A da CLT — **correção**: o artigo fixa o percentual entre 5% e 15%, então 15% já é o MÁXIMO permitido; a versão original da petição da Tayná usava 20%, que excede o teto legal (provável erro da própria petição-fonte) — a versão final de 27/07/2026 já foi corrigida para 15%, confirmando que o padrão do escritório está sendo seguido. Adotar 15% como padrão daqui em diante, independente de qual advogado assina.
 
 ### 11. Intimações exclusivamente em nome do advogado (universal — decisão do usuário: manter sempre, com Dr. Evandro Rodrigues Cardoso como referência padrão de preenchimento)
 Só aparecia na petição do Geovane (ausente nas outras 3), mas por decisão do escritório passa a ser cláusula padrão em toda petição, adaptando nome/OAB para quem assinar o caso.
@@ -143,6 +143,32 @@ Só aparecia na petição do Geovane (ausente nas outras 3), mas por decisão do
 ### 13. Prioridade de tramitação (checar sempre na qualificação, incluir só se um critério objetivo estiver preenchido)
 Base: art. 1.048 CPC (aplicação subsidiária via art. 769 CLT/art. 15 CPC) + Estatuto do Idoso + Lei 13.146/2015. Critérios: idade ≥ 60 anos (objetivo, só olhar a data de nascimento) / doença grave com **risco de vida** (não confundir com incapacidade funcional — hérnia discal, LER/DORT etc. não se enquadram sozinhas, mesmo quando já geram estabilidade acidentária ou dano moral em outro capítulo da mesma petição) / pessoa com deficiência (impedimento de longo prazo, Lei 13.146/2015) / gestante-lactante (analogia, menos pacífico).
 > Requer-se, ainda, a concessão de prioridade de tramitação ao presente feito, nos termos do art. 1.048, [I/II/III], do CPC, de aplicação subsidiária ao Processo do Trabalho, tendo em vista que a parte Reclamante [é maior de 60 anos, conforme qualificação / é portadora de doença grave que compromete gravemente sua saúde e indica risco de vida, conforme laudo médico anexo / é pessoa com deficiência, na forma da Lei 13.146/2015, conforme laudo/documento anexo].
+
+## Padrão de formatação do documento Word (confirmado na petição real da Tayná, 27/07/2026)
+
+Inspeção direta da formatação (não só do texto) do arquivo `.docx` — usar como modelo ao montar o Word final:
+
+- **Papel e margens**: tamanho Letter (21,59 × 27,94 cm / 8,5 × 11 pol — não é A4; conferir se é o padrão do template do escritório ou herança do Word do usuário antes de tratar como regra fixa). Margens ≈ 2,5 cm laterais, ≈1,75 cm superior, ≈1,5 cm inferior.
+- **Fonte**: Times New Roman, 12pt, em 100% do corpo do texto (nenhuma variação de fonte encontrada).
+- **Alinhamento**: justificado em todo o corpo (fundamentação, bullets, cabeçalho de qualificação). Só o bloco de fechamento final (abaixo) é centralizado.
+- **Espaçamento**: entrelinha simples (1,0), espaço de 12pt depois de cada parágrafo — sem parágrafos em branco manuais entre blocos/seções.
+- **Recuo de primeira linha**: ≈0,3 pol/0,78 cm nos parágrafos de prosa corrida (fundamentação). **Sem recuo** em: qualificação das partes, títulos de capítulo/subseção, itens de bullet, linhas "TOTAL"/"TOTAL DO PEDIDO", e no parágrafo de transição final ("Ante o exposto, requer... os seguintes pedidos:") — ou seja, texto corrido tem recuo, elementos estruturais/de lista não.
+- **Estilos de título**: `Heading 1` para o endereçamento ao juízo + nome da ação (maiúsculas); `Heading 2` para os capítulos (preliminares e I/II/III/IV em romanos, maiúsculas); `Heading 3` para as subseções numeradas dentro de um capítulo (ex.: "1. Do Acidente de Trabalho" — Title Case, não maiúsculas).
+- **Negrito**: reservado para (a) as linhas "TOTAL:"/"TOTAL DO PEDIDO:", (b) a declaração "Dá-se à causa o valor de R$ [...]", e (c) nome do advogado + OAB na assinatura final. Nunca negritar a prosa de fundamentação nem os itens individuais de bullet (verba/reflexo) — só o total consolidado.
+- **Estrutura quantitativa típica por subseção de mérito**: em média **3 parágrafos de prosa** antes do bloco de bullets — (1) contextualização fática, (2) base legal/jurisprudência/súmula, (3) transição fechando com "requer a condenação de R$ X..." — seguidos da lista de bullets (cláusula de formatação de valores acima) e da linha TOTAL. Capítulos preliminares/introdutórios (ex.: descrição do acidente em si, antes de entrar no mérito financeiro) podem ter só 1 parágrafo, sem bloco de valores.
+- **Porte de referência**: a petição real da Tayná (2 teses específicas + 6 pedidos de mérito) tem 126 parágrafos não vazios ao todo — útil como ordem de grandeza para estimar o tamanho de uma petição de complexidade média/alta, não como número fixo.
+- **Bloco de fechamento (sempre centralizado)**:
+  ```
+  Termos em que,
+  Pede Deferimento.
+  [Cidade]/[UF], [data por extenso].
+  [NOME DO ADVOGADO]          ← negrito
+  OAB/[UF] N.º [número]       ← negrito
+  ```
+
+**⚠️ Duas inconsistências encontradas no arquivo-fonte (não replicar, só para QA ao revisar o próprio documento):**
+1. O subtítulo do pedido de diferenças de seguro-desemprego ("6. Das Diferenças do Seguro-Desemprego...") não recebeu o estilo `Heading 3` como as outras 5 subseções do mesmo capítulo — ficou só em negrito no estilo `Normal`. Manter todas as subseções numeradas com o mesmo estilo de título.
+2. No capítulo de pedidos finais, o último item (diferenças de seguro-desemprego) teve o bullet e a linha "TOTAL DO PEDIDO" colados no mesmo parágrafo em vez de linhas separadas — quebrar sempre em linhas distintas, como nos demais itens.
 
 ## ⚠️ Alerta processual crítico: rito sumaríssimo exige valor líquido em TODO pedido
 
