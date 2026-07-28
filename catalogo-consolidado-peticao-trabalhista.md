@@ -132,9 +132,12 @@ TOTAL: R$ 17.570,00
 ---
 
 ## 8. Integração das verbas para fins de cálculo / primazia da realidade
-**Tipo:** GERAL — decisão do escritório: incluir sempre; na prática, quase todo caso tem alguma parcela variável habitual não integrada (comissão, gratificação, prêmio, "pagamento por fora"), como reforçado pelo caso Rosely (diferença de ~2x entre remuneração real e salário-base declarado)
+**Tipo:** GERAL, mas com gatilho de classificação — **regra: sempre classificar cada verba pedida na petição como remuneratória ou não-remuneratória; havendo QUALQUER verba de natureza remuneratória pedida ou reconhecida (horas extras, adicional de transferência, comissões, gratificação, prêmio, adicional noturno, insalubridade, periculosidade, "pagamento por fora" etc.), incluir esta cláusula E os respectivos reflexos (cláusula 9)**. Não é "incluir sempre sem checar" — é "checar sempre, e na prática quase todo caso tem ao menos uma verba remuneratória, então acaba se aplicando na maioria das vezes".
 
-**Condição de procedência (referência, já não é mais filtro de inclusão):** há parcela variável habitual não integrada à remuneração para todos os fins (comissão, gratificação, prêmio, "pagamento por fora"/salário extraoficial) — sempre verificar quais rubricas se aplicam ao caso concreto, mas incluir a cláusula por padrão.
+**Condição de procedência:** há pelo menos uma verba remuneratória pedida/reconhecida no caso — pode ser uma parcela variável habitual não integrada pelo empregador (comissão, gratificação, prêmio, "pagamento por fora"/salário extraoficial) OU uma verba remuneratória que a própria ação está pleiteando (ex.: horas extras, adicional de transferência) — em ambos os casos, o valor reconhecido precisa integrar a base de cálculo das demais verbas (13º, férias, FGTS etc.), o que é justamente o papel desta cláusula em conjunto com a cadeia de reflexos (cláusula 9).
+
+**Exemplos de verbas remuneratórias (integram a base de cálculo):** horas extras, adicional de transferência, adicional noturno, adicional de insalubridade/periculosidade, comissões, gratificação de função, prêmios habituais.
+**Exemplos de verbas NÃO remuneratórias (não integram, não geram reflexo):** ressarcimento de despesas, ajuda de custo eventual/não habitual, diárias que não excedam 50% do salário (art. 457, §2º, CLT), verbas indenizatórias (ex.: intervalo intrajornada suprimido pós-Reforma, cláusula 23).
 
 **Texto sugerido (texto modelo, reescrito no estilo Tayná a partir do texto real do Cardoso):**
 > Cumpre destacar que, ao longo de toda a contratualidade, a parte Reclamante recebia, de forma habitual e reiterada, a parcela [especificar: comissão / gratificação / pagamento extraoficial], sem que esta fosse considerada para fins de composição da sua remuneração e, por consequência, para o cálculo das demais verbas trabalhistas. Nesse contexto, impõe-se o reconhecimento de que o valor a ser considerado como base de cálculo para todos os fins deve corresponder à verdadeira remuneração percebida pela Reclamante, em estrita observância ao princípio da primazia da realidade, segundo o qual os fatos concretamente verificados ao longo da prestação de serviços prevalecem sobre a forma ou a documentação que, porventura, não os reflita adequadamente.
@@ -147,9 +150,9 @@ TOTAL: R$ 17.570,00
 ---
 
 ## 9. Cadeia padrão de reflexos
-**Tipo:** ESPECÍFICO
+**Tipo:** ESPECÍFICO — mesmo gatilho da cláusula 8 (verba remuneratória), aplicar as duas juntas
 
-**Condição de procedência:** há qualquer pedido de verba de natureza salarial/habitual (horas extras, adicional noturno, insalubridade, periculosidade, adicional de transferência, dobra de domingo, diferenças salariais etc.) — quando presente, aplicar a cadeia abaixo, não pedir a verba "seca".
+**Condição de procedência:** há qualquer pedido de verba de natureza salarial/habitual (horas extras, adicional noturno, insalubridade, periculosidade, adicional de transferência, dobra de domingo, diferenças salariais etc.) — quando presente, aplicar a cadeia abaixo, não pedir a verba "seca". Ver cláusula 8 para a lista de verbas remuneratórias x não remuneratórias — sempre que uma verba remuneratória for classificada, incluir a integração (cláusula 8) e a cadeia de reflexos (esta cláusula) juntas, uma para cada verba remuneratória do caso.
 
 **Núcleo (sempre que houver a verba-gatilho):**
 1. DSR (Descanso Semanal Remunerado) — Súmula 172 TST
