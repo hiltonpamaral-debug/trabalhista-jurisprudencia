@@ -85,6 +85,10 @@ Registro histórico (variações encontradas nas petições do Dr. Cardoso, não
 
 **Verbas remuneratórias (integram a base de cálculo):** horas extras, adicional de transferência, adicional noturno, adicional de insalubridade/periculosidade, comissões, gratificação de função, prêmios habituais. **Verbas NÃO remuneratórias (não integram, não geram reflexo):** ressarcimento de despesas, ajuda de custo eventual/não habitual, diárias que não excedam 50% do salário (art. 457, §2º, CLT), verbas indenizatórias (ex.: intervalo intrajornada suprimido pós-Reforma).
 
+**Ferramentas para calcular a remuneração real**: skill `conciliar-remuneracao-real-trabalhista` (CNIS/FGTS x salário-base declarado, mês a mês) e, se houver TRCT, `auditar-trct-trabalhista` (confere se 13º/férias/aviso-prévio usaram a média real correta) — ambas em `PETIÇÕES\ferramentas\.claude\skills\`.
+
+**Sem contracheques (caso Rosely x Pague Menos, 2026-07-28)**: o CNIS é documento de terceiro (Dataprev/INSS), com presunção de veracidade — serve de base de cálculo mesmo sem contracheques. Requerer na petição a exibição pela reclamada (art. 396 CPC) e, na ausência, a presunção de veracidade dos cálculos apresentados, por aplicação analógica da Súmula 338 TST.
+
 Jurisprudência-padrão citada nas 3 petições da variante Cardoso (usar literalmente):
 > "AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. [...] A averiguação se dá em cada caso, em respeito ao princípio da primazia da realidade, segundo o qual se deve analisar a prática concreta efetivada ao longo da prestação de serviços, independentemente da vontade eventualmente manifestada pelas partes ou ao previsto em instrumento escrito que, porventura, não correspondam à realidade. Agravo desprovido" (Ag-AIRR-1600-43.2017.5.17.0008, 3ª Turma, Relator Ministro Mauricio Godinho Delgado, DEJT 04/10/2024).
 
