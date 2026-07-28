@@ -285,6 +285,10 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 **Texto sugerido (texto modelo):**
 > Durante todo o período contratual, a Reclamante não dispunha de local adequado para usufruir do intervalo intrajornada, sendo compelida a descansar [em local inapropriado, ex.: no chão do vestiário/banheiro], conforme comprovam as fotografias anexas, em manifesta violação à NR-24 e ao princípio da dignidade da pessoa humana (art. 1º, III, CRFB/88), o que configura dano moral a ser indenizado.
 
+**Jurisprudência atual do tribunal (TRT23/MT, julho/2026 — usar quando o caso tramitar nesse tribunal; buscar o equivalente do tribunal do caso concreto, ver metodologia no Anexo):**
+- **TRT23, ROT 0000340-05.2024.5.23.0141, 1ª Turma, Rel. Des. Tarcisio Regis Valente, j. 14/07/2026**: manteve condenação por dano moral e reconheceu rescisão indireta (CLT art. 483, "d") pela ausência de banheiro e local adequado para refeição — "o reconhecimento da prestação de serviços em condições degradantes, em razão da ausência de banheiros e de local adequado para refeição no trecho, autoriza o reconhecimento da lesão moral".
+- **TRT23, ROT 0000146-84.2025.5.23.0071, 1ª Turma, Rel.ª Des.ª Eliney Bezerra Veloso, j. ~14/07/2026**: manteve dano moral por condição degradante (ausência de refeitório, alojamento precário) e destacou regra probatória importante: **a ausência de impugnação específica da reclamada sobre a falta de estrutura adequada presume verdadeira a alegação da inicial** (ônus de provar a adequação passa a ser do empregador).
+
 ---
 
 ## 20. Estabilidade provisória acidentária
@@ -296,6 +300,10 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Texto sugerido (texto modelo):**
 > Em razão do acidente/doença ocupacional acima descrito, faz a Reclamante jus à estabilidade provisória prevista no art. 118 da Lei 8.213/91 e na Súmula 378, II, do TST, pelo período de 12 (doze) meses a contar da cessação do auxílio previdenciário. Não havendo condições de reintegração, requer-se a conversão em indenização substitutiva correspondente aos salários e demais vantagens do período estabilitário.
+
+**Jurisprudência atual do tribunal (TRT23/MT, julho/2026):**
+- **TRT23, ROT 0000294-72.2025.5.23.0111, 1ª Turma, Rel. Des. Paulo Roberto Ramos Barrionuevo, j. ~21/07/2026**: reconheceu doença ocupacional em nexo **concausal** (sobrecarga biomecânica em atividade de limpeza) e confirmou danos morais + pensão mensal (parcela única, com redutor) + indenização substitutiva da estabilidade acidentária — decisivo foi a prova oral demonstrando a sobrecarga na rotina real do trabalho, não só o laudo pericial.
+- **⚠️ Contraexemplo/alerta (mesmo tribunal, mesmo mês): TRT23, ROT 0000297-91.2024.5.23.0004, 1ª Turma, Rel.ª Des.ª Eliney Bezerra Veloso, j. ~16/07/2026**: doença ocupacional e estabilidade acidentária **negadas** apesar de o laudo pericial reconhecer nexo concausal, porque a prova testemunhal contrariou o laudo — "o julgador detém liberdade na valoração da prova (persuasão racional), não estando adstrito exclusivamente às conclusões do perito". Lição: reforçar a consistência entre laudo médico e prova testemunhal/documental antes de apostar só no laudo.
 
 ---
 
@@ -379,6 +387,9 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 **Texto sugerido (texto modelo):**
 > A Reclamante exercia suas atividades em condições insalubres, em grau [médio/máximo], por exposição a [agente, ex.: calor/agente biológico], nos termos do Anexo [nº] da NR-15, fazendo jus ao adicional de insalubridade de [20%/40%] sobre o salário mínimo, com os reflexos de praxe (cláusula 9), a ser apurado mediante perícia técnica.
 
+**⚠️ Alerta processual atual do tribunal (TRT23/MT, julho/2026) — cuidado com os quesitos periciais:**
+- **TRT23, ROT 0000338-91.2025.5.23.0111, 2ª Turma, Rel. Des. João Carlos Ribeiro de Souza, j. 24/07/2026**: sentença anulada por cerceamento de defesa — a perícia de insalubridade foi considerada inconclusiva por **não realizar medições quantitativas dos agentes físicos** (NR-15, itens 15.4.1 e 15.4.2) e por não analisar atividades admitidas pela própria reclamada. **Aplicação prática**: ao formular quesitos periciais, exigir expressamente medição quantitativa dos agentes (não só constatação qualitativa) e cobrir todas as atividades/rotinas admitidas pela reclamada em sua defesa — evita nulidade e retrabalho.
+
 ---
 
 ## 27. Adicional de periculosidade
@@ -453,10 +464,17 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Condição de procedência:** existe programa de participação em resultados/lucros da empresa, e o contrato foi rescindido antes da distribuição.
 
-**Base legal:** Súmula 451 TST.
+**Base legal:** Súmula 451 TST — **⚠️ ver alerta de risco abaixo, a súmula sozinha pode não bastar.**
+
+**⚠️ Alerta de risco atual (nacional + confirmado no TRT23/MT, julho/2026) — não citar só a Súmula 451, reforçar a prova documental do direito em si:**
+Há uma linha de entendimento consolidada no sentido de que a Súmula 451 foi relativizada após o Tema 1.046/STF (prevalência do negociado sobre o legislado) e o art. 611-A, XV, da CLT, que inclui expressamente "participação nos lucros ou resultados" entre as matérias sujeitas à negociação coletiva. Na prática, isso significa que **o pagamento habitual em anos anteriores, por si só, não basta** — o reclamante precisa comprovar documentalmente a existência de norma coletiva (CCT/ACT) ou instrumento formal (comissão paritária, Lei nº 10.101/2000, art. 2º) que assegure a proporcionalidade. Confirmado agora no TRT23:
+- **TRT23, ROT 0001252-22.2024.5.23.0005, 1ª Turma, Rel. Des. Paulo Roberto Ramos Barrionuevo, j. ~22/07/2026**: PLR proporcional **negada** — "o direito à Participação nos Lucros ou Resultados (PLR) decorre de negociação coletiva, exigindo a formalização por meio de convenção ou acordo coletivo, nos termos do art. 2º da Lei n. 10.101/2000", e o ônus de provar essa norma é do autor (CLT art. 818 / CPC art. 373, I) — a habitualidade do pagamento em anos anteriores não supre a ausência da prova documental.
+- **TRT23, ROT 0000477-70.2025.5.23.0005, 1ª Turma, mesmo relator, mesma sessão**: mesma tese, mesmo resultado.
+
+**Como aplicar isso (recomendação prática):** sempre que o caso tiver um documento individual (carta-proposta, aditivo contratual, e-mail formalizando a política de PPR) em vez de — ou além de — uma CCT/ACT, **juntar e citar esse documento individual explicitamente como fundamento autônomo do direito**, argumentando que se trata de obrigação contratual assumida pelo empregador (arts. 421/427 CC, boa-fé objetiva/pacta sunt servanda), não dependente de norma coletiva — a linha de entendimento acima é sobre a ausência de QUALQUER prova documental, não sobre a forma específica do instrumento. Não presumir que o pagamento habitual, sozinho, resolve o ônus da prova.
 
 **Texto sugerido (texto modelo, estilo Tayná):**
-> Muito embora o contrato de trabalho tenha se encerrado antes da data de distribuição do [PPR/PLR/ILP] referente ao exercício de [ano], faz a Reclamante jus ao recebimento proporcional da respectiva parcela, nos termos da Súmula 451 do TST, porquanto a rescisão contratual não decorreu de justa causa e o período aquisitivo já havia transcorrido, ainda que parcialmente, ao tempo do desligamento.
+> Muito embora o contrato de trabalho tenha se encerrado antes da data de distribuição do [PPR/PLR/ILP] referente ao exercício de [ano], faz a Reclamante jus ao recebimento proporcional da respectiva parcela, nos termos da Súmula 451 do TST e do [instrumento/carta-proposta/CCT] que instituiu o programa, cuja cópia segue anexa, porquanto a rescisão contratual não decorreu de justa causa e o período aquisitivo já havia transcorrido, ainda que parcialmente, ao tempo do desligamento.
 
 ---
 
@@ -482,6 +500,8 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 **⚠️ Cautela importante (enunciados ANAMATRA, confirmado 2026):** descumprimento contratual simples (ex.: atraso de pagamento isolado) **NÃO gera dano moral por si só** — sempre narrar o "algo a mais" (condição degradante, saúde mental, discriminação, prática reiterada) explicitamente, não só listar o inadimplemento.
 
 **Base legal:** arts. 223-A a 223-G CLT; arts. 186/927 CC.
+
+**Jurisprudência atual do tribunal por fundamento** (ver cláusula 19 para condições degradantes e cláusula 20 para doença ocupacional — TRT23/MT, julho/2026, citações completas lá): confirmam dano moral por condição degradante mesmo sem prova direta do sofrimento (in re ipsa), com destaque para a regra de que a ausência de impugnação específica do empregador sobre a estrutura do local de trabalho presume verdadeira a alegação da inicial.
 
 **Texto sugerido (texto modelo, adaptar ao fundamento):**
 > A Reclamante foi submetida a [descrever a conduta: condição degradante / acidente sem assistência adequada / assédio moral reiterado / jornada exaustiva], o que configura violação aos direitos da personalidade e à dignidade da trabalhadora, ensejando o dever de indenizar por dano moral, nos termos dos arts. 223-A a 223-G da CLT, sendo o dano presumido (in re ipsa) diante da gravidade dos fatos narrados. Requer-se a condenação da Reclamada ao pagamento de indenização por danos morais no valor de R$ [X], ou outro que Vossa Excelência entender adequado.
@@ -536,3 +556,13 @@ Este documento consolida o conteúdo de dois arquivos vivos deste repositório, 
 - `jurisprudencia.db` — banco de decisões lidas na íntegra (resumo + tags + provas destacadas), fonte dos contra-exemplos e alertas processuais aqui citados.
 
 Sempre que a rotina automática (ou uma leitura manual) confirmar uma mudança de tese ou encontrar um novo contra-exemplo relevante, **este documento consolidado também deve ser atualizado**, não só os arquivos-fonte — ele existe pra ser o "modelo" de consulta rápida, então precisa ficar sincronizado.
+
+## Reforço jurisprudencial por tribunal, ao finalizar uma petição específica (não obrigatório, incluir se for fácil de achar algo relevante)
+
+Antes de finalizar uma petição para um caso concreto, vale a pena — **não é obrigatório, mas fortalece a peça** — buscar jurisprudência ATUAL do TRIBUNAL específico onde o caso vai tramitar para cada tópico incluído, e acrescentar como reforço ao lado do "texto sugerido" (como feito nas cláusulas 19, 20, 26 e 33 acima, usando o TRT23/MT como exemplo). Processo recomendado, do mais para o menos confiável:
+
+1. **Consultar `jurisprudencia.db` primeiro** — já pode ter algo do tribunal certo, tag certa, sem gastar nova busca.
+2. **Consultar a API do DJEN diretamente** (`https://comunicaapi.pje.jus.br/api/v1/comunicacao?siglaTribunal=TRT[N]&dataDisponibilizacaoInicio=[data]&dataDisponibilizacaoFim=[data]&texto=[tema]&itensPorPagina=20&pagina=1`) — **é a fonte mais confiável**: dá texto oficial completo, incluindo ementas estruturadas ("CASO EM EXAME / QUESTÃO EM DISCUSSÃO / RAZÕES DE DECIDIR / DISPOSITIVO") quando o resultado é um acórdão de Turma (`nomeOrgao` contendo "Turma"). Filtrar por resultados de Turma/ROT (2º grau) em vez de 1ª instância — vêm com a tese já redigida, os de 1º grau geralmente são só intimação/despacho sem holding.
+3. **Buscas genéricas na web (jusbrasil etc.) são a opção menos confiável**: muitos links retornam 403 ao tentar ler o inteiro teor, os números de processo às vezes vêm mascarados ("XXXXX"), e resumos gerados por IA de terceiros podem inventar detalhes (já aconteceu nesta sessão: uma busca "confirmou" a existência de uma "Súmula 173 do TST" sobre calor que não existe — não usar sem checagem cruzada). Usar só como pista inicial, nunca citar um número de processo, súmula ou tese sem confirmar em fonte oficial.
+4. **Nunca fabricar ou "completar de memória" um número de processo, súmula ou data** — se não for possível confirmar com confiança razoável, não incluir, ou incluir com a ressalva explícita "não confirmado, verificar antes de citar".
+5. Ao encontrar algo relevante, salvar no `jurisprudencia.db` (mesmo schema/tags de sempre) e acrescentar ao tópico correspondente deste catálogo, incluindo tribunal, turma, relator, número do processo e data — isso automaticamente também abastece o "repositório" para casos futuros no mesmo tribunal.
