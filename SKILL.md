@@ -30,6 +30,16 @@ V.   DOS PEDIDOS E REQUERIMENTOS FINAIS  (lista consolidada + tabela de valores 
 
 Cada subseção de pedido específico segue o padrão: **fundamentação em prosa → citação de jurisprudência/súmula relevante → discriminação do valor estimado em bullets → frase de fechamento "requer a condenação de R$ X, sem prejuízo de posterior apuração em liquidação"**.
 
+### Formatação obrigatória da discriminação de valores (confirmado na petição real da Tayná, adotar sempre)
+Sempre que uma subseção de mérito discriminar valores (verba principal + reflexos), cada linha deve ser um item recuado, precedido de "•", uma verba por linha — nunca listar os valores em frase corrida separada por vírgulas. Ao final do bloco, uma linha de fechamento com o mesmo recuo, **sem** "•", somando o total:
+```
+• [Nome da verba/reflexo 1]: R$ [valor]
+• [Nome da verba/reflexo 2]: R$ [valor]
+• [Nome da verba/reflexo N]: R$ [valor]
+TOTAL: R$ [soma]
+```
+No capítulo final "DOS PEDIDOS E REQUERIMENTOS FINAIS" (cláusula de estrutura V), o mesmo padrão se repete recuado um nível a mais (aninhado dentro do pedido numerado correspondente), trocando o rótulo para **"TOTAL DO PEDIDO: R$ [soma]"**. Isso vale tanto para a redação em Word (usar recuo + marcador de lista, não texto plano) quanto para a versão em markdown deste catálogo (usar `-`/bullet do markdown).
+
 ## Cláusulas universais (usar em toda petição, adaptando os dados)
 
 ### 0. Cabeçalho: endereçamento, qualificação das partes e nome da ação (sempre, abre a petição antes do capítulo I)

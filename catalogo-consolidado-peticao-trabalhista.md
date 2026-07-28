@@ -19,6 +19,14 @@ V.   DOS PEDIDOS E REQUERIMENTOS FINAIS
 ```
 Cada subseção de pedido de mérito segue: fundamentação em prosa → jurisprudência/súmula → valor discriminado em bullets → "requer a condenação de R$ X, sem prejuízo de posterior apuração em liquidação".
 
+**Formatação obrigatória da discriminação de valores (confirmado na petição real da Tayná):** cada verba/reflexo em linha própria, recuada, precedida de "•" — nunca em frase corrida separada por vírgulas. Ao final, linha de fechamento com o mesmo recuo, sem "•": "TOTAL: R$ [soma]" (no capítulo V, "TOTAL DO PEDIDO: R$ [soma]", recuado um nível a mais por estar aninhado dentro do pedido numerado). Exemplo real:
+```
+• Adicional de Insalubridade Principal (40% s/ salário mínimo do período): R$ 10.980,00
+• Reflexos em DSR (Descanso Semanal Remunerado): R$ 1.830,00
+• Reflexos em Adicional Noturno e Redução Noturna: R$ 680,00
+TOTAL: R$ 17.570,00
+```
+
 **⚠️ Alerta processual crítico (rito sumaríssimo)**: se a petição for protocolada em rito sumaríssimo, **todo pedido individual** precisa ter valor líquido atribuído (CLT art. 852-B, I e § 1º) — não cabe emenda depois, a extinção sem resolução do mérito é medida impositiva (confirmado em decisão real do TRT10, 2026). Conferir isso antes de protocolar, inclusive em pedidos "colaterais" (rescisão indireta, intervalo intrajornada etc.).
 
 ---
