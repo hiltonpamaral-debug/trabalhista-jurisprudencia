@@ -132,9 +132,9 @@ TOTAL: R$ 17.570,00
 ---
 
 ## 8. Integração das verbas para fins de cálculo / primazia da realidade
-**Tipo:** ESPECÍFICO
+**Tipo:** GERAL — decisão do escritório: incluir sempre; na prática, quase todo caso tem alguma parcela variável habitual não integrada (comissão, gratificação, prêmio, "pagamento por fora"), como reforçado pelo caso Rosely (diferença de ~2x entre remuneração real e salário-base declarado)
 
-**Condição de procedência:** há parcela variável habitual não integrada à remuneração para todos os fins (comissão, gratificação, prêmio, "pagamento por fora"/salário extraoficial).
+**Condição de procedência (referência, já não é mais filtro de inclusão):** há parcela variável habitual não integrada à remuneração para todos os fins (comissão, gratificação, prêmio, "pagamento por fora"/salário extraoficial) — sempre verificar quais rubricas se aplicam ao caso concreto, mas incluir a cláusula por padrão.
 
 **Texto sugerido (texto modelo, reescrito no estilo Tayná a partir do texto real do Cardoso):**
 > Cumpre destacar que, ao longo de toda a contratualidade, a parte Reclamante recebia, de forma habitual e reiterada, a parcela [especificar: comissão / gratificação / pagamento extraoficial], sem que esta fosse considerada para fins de composição da sua remuneração e, por consequência, para o cálculo das demais verbas trabalhistas. Nesse contexto, impõe-se o reconhecimento de que o valor a ser considerado como base de cálculo para todos os fins deve corresponder à verdadeira remuneração percebida pela Reclamante, em estrita observância ao princípio da primazia da realidade, segundo o qual os fatos concretamente verificados ao longo da prestação de serviços prevalecem sobre a forma ou a documentação que, porventura, não os reflita adequadamente.
@@ -181,9 +181,9 @@ TOTAL: R$ 17.570,00
 ---
 
 ## 11. Multa do art. 467 da CLT
-**Tipo:** ESPECÍFICO
+**Tipo:** GERAL — decisão do escritório: incluir sempre, na prática a maioria dos casos envolve alguma controvérsia sobre o montante das verbas rescisórias
 
-**Condição de procedência:** há controvérsia sobre o montante exato das verbas rescisórias (a Reclamada pode contestar valores).
+**Condição de procedência (referência, já não é mais filtro de inclusão):** há controvérsia sobre o montante exato das verbas rescisórias (a Reclamada pode contestar valores) — na prática, quase sempre presente, por isso a cláusula passou a ser universal.
 
 **Texto sugerido (texto real, Cardoso, reescrito no estilo Tayná):**
 > Não bastasse isso, caso a Reclamada deixe de efetuar, já na primeira audiência, o pagamento das verbas rescisórias incontroversas, requer-se, desde logo, a aplicação da multa prevista no art. 467 da CLT, correspondente a 50% (cinquenta por cento) sobre o montante incontroverso reconhecido nos autos.

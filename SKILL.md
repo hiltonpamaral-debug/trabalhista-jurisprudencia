@@ -80,7 +80,7 @@ Registro histórico (variações encontradas nas petições do Dr. Cardoso, não
 - Versão longa (Geovane, item dedicado "DOS VALORES MEROS ESTIMATIVOS DA INICIAL"): "Quanto à limitação dos valores indicados na petição inicial, ressalta-se que estes possuem caráter meramente estimativo [...]"
 - Versão curta (Wellynton/GR e Elenilde, idêntica nas duas, no pedido final): "Requer que sejam feitos todos os cálculos corretamente para liquidação dos valores na sentença, pois os pedidos são valores estimados, valores mais exatos serão apresentados na fase de liquidação da sentença."
 
-### 5. Integração das verbas para fins de cálculo / primazia da realidade (sempre que houver parcela variável habitual — comissão, gratificação, prêmio, "pagamento por fora")
+### 5. Integração das verbas para fins de cálculo / primazia da realidade (universal — decisão do escritório: incluir sempre, checando quais rubricas se aplicam ao caso — comissão, gratificação, prêmio, "pagamento por fora")
 > O valor a ser considerado como base de cálculo para todos os fins deve corresponder à verdadeira remuneração recebida pelo Reclamante, em conformidade com o princípio da primazia da realidade [...]
 
 Jurisprudência-padrão citada nas 3 petições da variante Cardoso (usar literalmente):
@@ -111,7 +111,7 @@ Verificado nas 3 petições do Dr. Cardoso (Geovane, Wellynton/GR, Elenilde) —
 > [...] a Reclamada deixou de quitar, no prazo legal de 10 dias, as verbas rescisórias devidas [...], nos termos do art. 477, §6º/§8º, da CLT.
 Citar o Tema 52 dos Recursos Repetitivos do TST quando a verba só se tornou exigível após reconhecimento judicial (rescisão indireta/reversão de justa causa) — o reconhecimento posterior não afasta a multa.
 
-### 8. Multa do art. 467 da CLT (incluir quando há controvérsia sobre o montante das verbas rescisórias)
+### 8. Multa do art. 467 da CLT (universal — decisão do escritório: incluir sempre, já que na prática quase todo caso tem alguma controvérsia sobre o montante das verbas rescisórias)
 > Caso a Reclamada não efetue o pagamento das verbas rescisórias incontroversas na primeira audiência, requer-se a aplicação da multa prevista no art. 467 da CLT, no percentual de 50%.
 
 ### 9. Seguro-desemprego — **NÃO é universal, cuidado para não incluir à toa**
@@ -185,7 +185,7 @@ Achado real (TRT10, ATSum 0000853-43.2026.5.10.0018, julho/2026): processo **ext
 ## Como aplicar
 
 1. Ao montar uma petição nova (via `reclamacao-trabalhista-inicial` ou diretamente), usar a estrutura de capítulos romanos do estilo Tayná como esqueleto.
-2. Inserir as cláusulas universais sempre: 0 (cabeçalho/qualificação/nome da ação), 1 (gratuidade), 2 (Juízo 100% Digital), 4 (valores estimativos/não limitação), 10 (honorários, 15%), 11 (intimação exclusiva), 12 (provas).
-3. Inserir condicionalmente, conforme os fatos do caso: 5 (parcela variável habitual), 6 (hora extra/adicional), 7 (rescisão em atraso), 8 (controvérsia sobre valor), 9 (seguro-desemprego — só se guias não entregues, por reclassificação ou não, OU se há diferença por verbas novas reconhecidas na ação; nunca por padrão em dispensa sem justa causa simples com guias entregues), 3 (segredo de justiça — só com documento médico sensível), 13 (prioridade de tramitação — só se idade ≥60/doença grave com risco de vida/deficiência/gestante-lactante).
+2. Inserir as cláusulas universais sempre: 0 (cabeçalho/qualificação/nome da ação), 1 (gratuidade), 2 (Juízo 100% Digital), 4 (valores estimativos/não limitação), 5 (integração das verbas/primazia da realidade — checar quais rubricas se aplicam ao caso, mas incluir a cláusula por padrão), 8 (multa do art. 467 — controvérsia sobre o montante quase sempre presente na prática), 10 (honorários, 15%), 11 (intimação exclusiva), 12 (provas).
+3. Inserir condicionalmente, conforme os fatos do caso: 6 (hora extra/adicional), 7 (rescisão em atraso), 9 (seguro-desemprego — só se guias não entregues, por reclassificação ou não, OU se há diferença por verbas novas reconhecidas na ação; nunca por padrão em dispensa sem justa causa simples com guias entregues), 3 (segredo de justiça — só com documento médico sensível), 13 (prioridade de tramitação — só se idade ≥60/doença grave com risco de vida/deficiência/gestante-lactante).
 4. Perguntar ao usuário qual advogado assina (nome/OAB) para preencher a cláusula 11 corretamente — o padrão de referência é Evandro Rodrigues Cardoso, OAB/DF 75.805, mas adaptar para quem assinar de fato.
 5. Nunca inventar valores/jurisprudência — os números de cada petição são calculados a partir dos documentos do caso concreto; as cláusulas acima são só o **texto-padrão**, não os valores.
