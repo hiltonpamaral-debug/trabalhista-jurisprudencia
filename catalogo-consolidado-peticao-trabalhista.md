@@ -555,6 +555,55 @@ Há uma linha de entendimento consolidada no sentido de que a Súmula 451 foi re
 
 ---
 
+# PARTE 3 — Matriz de provas por tópico
+
+Classificação do tipo de prova necessária para cada tópico do catálogo — usar no planejamento da instrução processual (rol de testemunhas, quesitos periciais, documentos a juntar/requerer) antes de protocolar. **PT** = prova testemunhal, **PD** = prova documental, **DP** = depoimento pessoal, **PER** = perícia (técnica ou médica) — **essencial, não uma opção**, sem ela o pedido normalmente não se sustenta.
+
+| # | Tópico | Prova necessária |
+|---|---|---|
+| 1 | Gratuidade da justiça | PD (declaração de hipossuficiência) ou nenhuma (presunção legal se salário ≤40% do teto RGPS) |
+| 2 | Valores meramente estimativos | Nenhuma (regra de direito) |
+| 3 | Honorários | Nenhuma (decorre da sucumbência) |
+| 4 | Intimação exclusiva | Nenhuma (requerimento processual) |
+| 5 | Provas | — |
+| 6 | Juízo 100% Digital | Nenhuma |
+| 7 | Segredo de justiça | PD (laudo/atestado médico já anexado) |
+| 8 | Integração das verbas remuneratórias | PD (contracheques, CNIS, extrato FGTS) — na ausência de contracheques, PD oficial (CNIS) + ônus de exibição para a reclamada |
+| 9 | Cadeia de reflexos | Decorre do pedido principal, sem prova própria |
+| 10 | Multa do art. 477 | PD (TRCT, data de pagamento) |
+| 11 | Multa do art. 467 | PD + DP (controvérsia sobre valores) |
+| 12 | Seguro-desemprego | PD (guias, CTPS, comprovante de não recebimento/diferença) |
+| 13 | Reconhecimento de vínculo anterior | PT + PD (recibos, mensagens, testemunhas do período) |
+| 14 | Rescisão indireta | PT + PD (extratos FGTS, mensagens, recibos de salário atrasado) |
+| 15 | Reversão de justa causa | PD (histórico disciplinar) + PT |
+| 16 | Tutela de urgência (rescisão indireta) | PD + **PT robusta** — jurisprudência real mostra que só documento médico do evento agudo não basta, especialmente em assédio moral |
+| 17 | Acidente de trabalho + CAT | PD (boletim, atestados) + PT + eventual **PER** médica |
+| 18 | Doença ocupacional | **PER médica (nexo causal/concausal) — essencial, sem ela o pedido não se sustenta** |
+| 19 | Condições degradantes | PT + PD (fotos) |
+| 20 | Estabilidade acidentária | PD (CAT, benefício B91/B92 do INSS) + eventual PER |
+| 21 | Horas extras | PD (cartão de ponto) + PT (se não houver ponto ou para contestar o ponto) |
+| 22 | Intervalo interjornada | PD (cartão de ponto) + PT |
+| 23 | Natureza indenizatória do intervalo (nota técnica) | — |
+| 24 | Dobra de domingo | PD (escala) + PT |
+| 25 | Cargo de confiança (nulidade) | PD (holerites, organograma) + **PT forte** (quesito subjetivo — autonomia real) |
+| 26 | Adicional de insalubridade | **PER técnica — essencial, sem ela o pedido não se sustenta** |
+| 27 | Adicional de periculosidade | **PER técnica — essencial, sem ela o pedido não se sustenta** |
+| 28 | Adicional noturno | PD (cartão de ponto/escala) |
+| 29 | Adicional de transferência | PD (comunicado de transferência, comprovante de endereço) |
+| 30 | Enquadramento sindical | PD (CNAE, contrato social da reclamada) |
+| 31 | Multas convencionais | PD (CCT + fato gerador) |
+| 32 | Integração de comissões/gratificações | PD (holerites/CNIS) |
+| 33 | PPR/PLR proporcional | PD (programa de PLR, holerites de anos anteriores) |
+| 34 | Diferenças na base do TRCT | PD (TRCT + holerites/CNIS) |
+| 35 | Danos morais | PT + PD, variando pelo fundamento — dano in re ipsa (acidente/doença/condição degradante) dispensa prova do sofrimento em si, mas não dos fatos; assédio moral exige PT específica do assédio, não só laudo do dano à saúde |
+| 36 | Dano material | PD (comprovantes de despesa) |
+| 37 | Desconto indevido em folha/TRCT | PD — ônus de provar a autorização é da reclamada; ausência do documento nos autos já basta para o pedido |
+| 38 | Prioridade de tramitação | PD (laudo de PCD, certidão de nascimento para idade) |
+
+**Aplicação prática**: ao montar o capítulo de provas da petição (cláusula 5) e o rol de testemunhas, cruzar contra essa matriz — todo pedido marcado com **PER** precisa vir acompanhado do requerimento de perícia (e, se pertinente, dos quesitos periciais); todo pedido com **PT forte** precisa de testemunhas específicas arroladas, não só genéricas.
+
+---
+
 # Anexo — Metodologia de atualização e fontes
 
 Este documento consolida o conteúdo de dois arquivos vivos deste repositório, que continuam sendo atualizados pela rotina automática diária de leitura de jurisprudência:
