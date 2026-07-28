@@ -32,8 +32,20 @@ Cada subseção de pedido específico segue o padrão: **fundamentação em pros
 
 ## Cláusulas universais (usar em toda petição, adaptando os dados)
 
+### 0. Cabeçalho: endereçamento, qualificação das partes e nome da ação (sempre, abre a petição antes do capítulo I)
+> AO JUÍZO DA [Nº] VARA DO TRABALHO DE [comarca] – [UF]
+> [NOME COMPLETO DO RECLAMANTE], [nacionalidade], [estado civil], [profissão], nascido(a) em [data de nascimento], portador(a) da Carteira de Identidade RG n.º [nº]/[órgão expedidor], inscrito(a) no CPF/MF sob o n.º [nº], CTPS n.º [nº] série [nº], residente e domiciliado(a) na [endereço completo], por seus advogados devidamente constituídos, vem, respeitosamente, à presença de Vossa Excelência, propor a presente
+> AÇÃO TRABALHISTA PELO RITO [ORDINÁRIO / SUMÁRIO / SUMARÍSSIMO]
+> em face de [RAZÃO SOCIAL DA RECLAMADA], pessoa jurídica de direito privado, inscrita no CNPJ/MF sob o n.º [nº], estabelecida na [endereço completo], pelas razões de fato e de direito a seguir expostas:
+
+O nome da ação depende do rito (valor da causa): sumaríssimo até o teto de alçada (exige valor líquido em cada pedido — ver alerta processual crítico), ordinário acima do teto ou matéria mais complexa. A Tayná/Köhler usa "AÇÃO TRABALHISTA PELO RITO ORDINÁRIO"; "RECLAMAÇÃO TRABALHISTA" também é aceito como nome genérico em outras variantes do escritório — confirmar o rito correto antes de nomear.
+
+Data de nascimento na qualificação também serve para checar a cláusula 13 (prioridade de tramitação por idade ≥ 60 anos).
+
 ### 1. Gratuidade da Justiça (sempre, é item I ou item 1 das preliminares)
-> A Reclamante não possui condições financeiras de arcar com as custas processuais, taxas judiciárias e honorários advocatícios sem o grave prejuízo do sustento próprio e de sua família [...]. Tal situação preenche de forma inequívoca os requisitos legais previstos no art. 790, §§ 3º e 4º, da CLT, bem como no art. 99, § 3º, do CPC e na Carta Magna (art. 5º, LXXIV).
+> A Reclamante não possui condições financeiras de arcar com as custas processuais, taxas judiciárias e honorários advocatícios sem o grave prejuízo do sustento próprio e de sua família [...]. Ressalte-se que a última remuneração contratual percebida pela Reclamante foi inferior a 40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de Previdência Social. Tal situação preenche de forma inequívoca os requisitos legais previstos no art. 790, §§ 3º e 4º, da CLT, bem como no art. 99, § 3º, do CPC e na Carta Magna (art. 5º, LXXIV).
+
+O critério objetivo do art. 790, § 3º, CLT (remuneração ≤ 40% do teto do RGPS) presume a hipossuficiência — sempre citar quando o salário do cliente se enquadrar.
 
 Fundamento alternativo mais curto (variante Cardoso): declaração de hipossuficiência assinada pelo reclamante/advogado basta — **Súmula nº 463, I, do TST**.
 
@@ -49,10 +61,10 @@ Registro histórico (texto real, Cardoso, não usar mais como padrão): "[...] a
 ### 3. Segredo de Justiça (condicional — só incluir se houver documento médico/psiquiátrico sensível nos autos)
 > Considerando que a presente ação envolve documentos médicos e atestados que tratam da saúde [mental/física] do Reclamante, requer-se, com fundamento no art. 189 do CPC, a tramitação do processo em segredo de justiça [...].
 
-### 4. Valores meramente estimativos / não limitação da inicial (universal — não constava na Tayná, redação abaixo recriada no estilo dela conforme pedido)
-Não havia esta cláusula na petição da Tayná (referência de estrutura/estilo do escritório) — texto abaixo escrito na mesma voz/formalidade dela para preencher a lacuna, a ser usado como versão padrão daqui em diante:
+### 4. Valores meramente estimativos / não limitação da inicial (universal — está sim na petição real da Tayná, correção de registro)
+**Correção**: uma versão anterior deste arquivo dizia que esta cláusula não constava na petição da Tayná e que teria sido recriada — isso estava errado. Ela consta, sob o título "DOS VALORES MERAMENTE ESTIMATÓRIOS", logo após a gratuidade, com fundamento no **art. 12, § 2º, da Instrução Normativa n.º 41/2018 do TST** (complementar ao art. 840, § 1º, da CLT usado nas demais fontes):
 
-> Os valores atribuídos a cada um dos pedidos formulados nesta exordial possuem natureza meramente estimativa, servindo unicamente ao atendimento da exigência legal de indicação de valor certo aos pedidos, nos termos do art. 840, § 1º, da CLT. Não há, portanto, que se falar em limitação da condenação aos montantes ora apresentados, porquanto a apuração exata e definitiva das verbas eventualmente deferidas depende da regular instrução processual, da produção das provas cabíveis e da liquidação de sentença, momento processual próprio para a definição precisa do quantum debeatur.
+> Registra-se que os valores atribuídos aos pedidos nesta exordial representam mera estimativa para fins de fixação do rito processual e atribuição do valor da causa, nos termos do art. 12, § 2º, da Instrução Normativa n.º 41/2018 do TST, não limitando o montante da condenação, o qual deverá ser apurado de forma integral em ulterior liquidação de sentença por cálculos. Portanto, não há falar em limitação de eventual condenação aos valores inicialmente estimados, devendo o montante exato ser apurado em sede de regular liquidação de sentença, oportunidade adequada para a precisa definição do quantum debeatur.
 
 Registro histórico (variações encontradas nas petições do Dr. Cardoso, não usar mais como padrão, só para referência):
 - Versão longa (Geovane, item dedicado "DOS VALORES MEROS ESTIMATIVOS DA INICIAL"): "Quanto à limitação dos valores indicados na petição inicial, ressalta-se que estes possuem caráter meramente estimativo [...]"
@@ -118,6 +130,10 @@ Só aparecia na petição do Geovane (ausente nas outras 3), mas por decisão do
 ### 12. Provas (sempre, penúltimo item antes do valor da causa)
 > Protesta provar o alegado por todos os meios de prova em direito admitidos, em especial pelo depoimento pessoal do representante legal da Reclamada, oitiva de testemunhas, juntada de novos documentos e realização de perícia [médica/ergonômica/técnica, conforme o caso].
 
+### 13. Prioridade de tramitação (checar sempre na qualificação, incluir só se um critério objetivo estiver preenchido)
+Base: art. 1.048 CPC (aplicação subsidiária via art. 769 CLT/art. 15 CPC) + Estatuto do Idoso + Lei 13.146/2015. Critérios: idade ≥ 60 anos (objetivo, só olhar a data de nascimento) / doença grave com **risco de vida** (não confundir com incapacidade funcional — hérnia discal, LER/DORT etc. não se enquadram sozinhas, mesmo quando já geram estabilidade acidentária ou dano moral em outro capítulo da mesma petição) / pessoa com deficiência (impedimento de longo prazo, Lei 13.146/2015) / gestante-lactante (analogia, menos pacífico).
+> Requer-se, ainda, a concessão de prioridade de tramitação ao presente feito, nos termos do art. 1.048, [I/II/III], do CPC, de aplicação subsidiária ao Processo do Trabalho, tendo em vista que a parte Reclamante [é maior de 60 anos, conforme qualificação / é portadora de doença grave que compromete gravemente sua saúde e indica risco de vida, conforme laudo médico anexo / é pessoa com deficiência, na forma da Lei 13.146/2015, conforme laudo/documento anexo].
+
 ## ⚠️ Alerta processual crítico: rito sumaríssimo exige valor líquido em TODO pedido
 
 Achado real (TRT10, ATSum 0000853-43.2026.5.10.0018, julho/2026): processo **extinto sem resolução do mérito** porque a petição inicial, no **rito sumaríssimo**, formulou pedidos (rescisão indireta, intervalo intrajornada) **sem atribuir valor líquido** a cada um. Fundamento: CLT art. 852-B, I e § 1º — no rito sumaríssimo, todo pedido precisa ter valor certo/determinado, e **não cabe emenda à inicial para corrigir isso depois** — a extinção é medida impositiva, não uma opção do juiz.
@@ -133,7 +149,7 @@ Achado real (TRT10, ATSum 0000853-43.2026.5.10.0018, julho/2026): processo **ext
 ## Como aplicar
 
 1. Ao montar uma petição nova (via `reclamacao-trabalhista-inicial` ou diretamente), usar a estrutura de capítulos romanos do estilo Tayná como esqueleto.
-2. Inserir as cláusulas universais sempre: 1 (gratuidade), 2 (Juízo 100% Digital), 4 (valores estimativos/não limitação), 10 (honorários, 15%), 11 (intimação exclusiva), 12 (provas).
-3. Inserir condicionalmente, conforme os fatos do caso: 5 (parcela variável habitual), 6 (hora extra/adicional), 7 (rescisão em atraso), 8 (controvérsia sobre valor), 9 (seguro-desemprego — só se guias não entregues, por reclassificação ou não, OU se há diferença por verbas novas reconhecidas na ação; nunca por padrão em dispensa sem justa causa simples com guias entregues), 3 (segredo de justiça — só com documento médico sensível).
+2. Inserir as cláusulas universais sempre: 0 (cabeçalho/qualificação/nome da ação), 1 (gratuidade), 2 (Juízo 100% Digital), 4 (valores estimativos/não limitação), 10 (honorários, 15%), 11 (intimação exclusiva), 12 (provas).
+3. Inserir condicionalmente, conforme os fatos do caso: 5 (parcela variável habitual), 6 (hora extra/adicional), 7 (rescisão em atraso), 8 (controvérsia sobre valor), 9 (seguro-desemprego — só se guias não entregues, por reclassificação ou não, OU se há diferença por verbas novas reconhecidas na ação; nunca por padrão em dispensa sem justa causa simples com guias entregues), 3 (segredo de justiça — só com documento médico sensível), 13 (prioridade de tramitação — só se idade ≥60/doença grave com risco de vida/deficiência/gestante-lactante).
 4. Perguntar ao usuário qual advogado assina (nome/OAB) para preencher a cláusula 11 corretamente — o padrão de referência é Evandro Rodrigues Cardoso, OAB/DF 75.805, mas adaptar para quem assinar de fato.
 5. Nunca inventar valores/jurisprudência — os números de cada petição são calculados a partir dos documentos do caso concreto; as cláusulas acima são só o **texto-padrão**, não os valores.

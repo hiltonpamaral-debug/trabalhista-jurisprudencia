@@ -9,6 +9,8 @@ Documento-modelo consolidando **todas** as cláusulas/teses identificadas até a
 ## Estrutura geral da petição (esqueleto — estilo Tayná, adotado como padrão do escritório)
 
 ```
+[CABEÇALHO: endereçamento ao juízo + qualificação das partes + nome da ação — cláusula 0]
+
 I.   DA GRATUIDADE DA JUSTIÇA
 II.  DO CONTRATO DE TRABALHO E DA SÍNTESE LABORAL
 III. [BLOCO DE TESES ESPECÍFICAS DO CASO]
@@ -23,11 +25,33 @@ Cada subseção de pedido de mérito segue: fundamentação em prosa → jurispr
 
 # PARTE 1 — CLÁUSULAS GERAIS (incluir sempre)
 
+## 0. Cabeçalho: endereçamento, qualificação das partes e nome da ação
+**Tipo:** GERAL — abre toda petição, antes do capítulo I
+
+**Texto sugerido (texto real, Tayná/Köhler — estrutura-modelo, adaptar dados):**
+> AO JUÍZO DA [Nº] VARA DO TRABALHO DE [comarca] – [UF]
+>
+> [NOME COMPLETO DO RECLAMANTE], [nacionalidade], [estado civil], [profissão], nascido(a) em [data de nascimento], portador(a) da Carteira de Identidade RG n.º [nº]/[órgão expedidor], inscrito(a) no CPF/MF sob o n.º [nº], CTPS n.º [nº] série [nº], residente e domiciliado(a) na [endereço completo], por seus advogados devidamente constituídos, vem, respeitosamente, à presença de Vossa Excelência, propor a presente
+>
+> AÇÃO TRABALHISTA PELO RITO [ORDINÁRIO / SUMÁRIO / SUMARÍSSIMO]
+>
+> em face de [RAZÃO SOCIAL DA RECLAMADA], pessoa jurídica de direito privado, inscrita no CNPJ/MF sob o n.º [nº], estabelecida na [endereço completo], pelas razões de fato e de direito a seguir expostas:
+
+**Observação sobre o nome da ação:** o rito processual (e, portanto, o nome a constar no cabeçalho) depende do valor da causa e da complexidade — **sumaríssimo** até o teto de alçada vigente (CLT art. 852-A, com pedido líquido obrigatório em cada item — ver alerta processual crítico no topo deste documento), **sumário** numa faixa intermediária pouco usada na prática, **ordinário** acima do teto ou quando a matéria exige instrução mais complexa. A petição real da Tayná (Dr. Köhler) usou "AÇÃO TRABALHISTA PELO RITO ORDINÁRIO"; outras variantes do escritório usam "RECLAMAÇÃO TRABALHISTA" como nome genérico — ambos os termos são aceitos na praxe forense, mas confirmar o rito correto antes de nomear, pois isso muda regras processuais (valor líquido obrigatório no sumaríssimo, por exemplo).
+
+**Checklist de dados obrigatórios na qualificação do reclamante:** nome completo, nacionalidade, estado civil, profissão/função, data de nascimento (relevante também para aferir prioridade de tramitação — ver cláusula 8 abaixo), RG (número + órgão expedidor), CPF, número da CTPS (conferir que não seja confundido com o CPF por erro de digitação do modelo), endereço residencial completo com CEP.
+
+**Checklist de dados obrigatórios na qualificação da reclamada:** razão social completa, natureza jurídica, CNPJ, endereço da sede/estabelecimento com CEP.
+
+---
+
 ## 1. Gratuidade da Justiça
 **Tipo:** GERAL
 
 **Texto sugerido (texto real, Tayná):**
-> A Reclamante não possui condições financeiras de arcar com as custas processuais, taxas judiciárias e honorários advocatícios sem o grave prejuízo do sustento próprio e de sua família. O contrato de trabalho mantido com a Reclamada foi rescindido imotivadamente, encontrando-se a empregada atualmente desempregada e sem fonte formal de renda para sua subsistência. Tal situação preenche de forma inequívoca os requisitos legais previstos no art. 790, §§ 3º e 4º, da CLT, bem como no art. 99, § 3º, do CPC e na Carta Magna (art. 5º, LXXIV).
+> A Reclamante não possui condições financeiras de arcar com as custas processuais, taxas judiciárias e honorários advocatícios sem o grave prejuízo do sustento próprio e de sua família. O contrato de trabalho mantido com a Reclamada foi rescindido imotivadamente, encontrando-se a empregada atualmente desempregada e sem fonte formal de renda para sua subsistência. Ressalte-se que a última remuneração contratual percebida pela Reclamante foi inferior a 40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de Previdência Social. Tal situação preenche de forma inequívoca os requisitos legais previstos no art. 790, §§ 3º e 4º, da CLT, bem como no art. 99, § 3º, do CPC e na Carta Magna (art. 5º, LXXIV). Ante o exposto, requer a Vossa Excelência a concessão integral dos benefícios da Justiça Gratuita, isentando a Reclamante do pagamento de custas, emolumentos e eventuais despesas processuais.
+
+**Critério objetivo (não esquecer de conferir o fato):** CLT art. 790, § 3º presume a hipossuficiência quando a última remuneração do reclamante for igual ou inferior a 40% do teto do RGPS vigente — sempre citar esse dado quando o salário do cliente se enquadrar, reforça o deferimento automático.
 
 **Fundamento alternativo mais curto (texto real, variante Cardoso):** declaração de hipossuficiência assinada pelo reclamante/advogado basta — Súmula nº 463, I, do TST.
 
@@ -36,8 +60,10 @@ Cada subseção de pedido de mérito segue: fundamentação em prosa → jurispr
 ## 2. Valores meramente estimativos / não limitação da inicial
 **Tipo:** GERAL
 
-**Texto sugerido (texto modelo, redigido no estilo Tayná — a petição dela não tinha essa cláusula, foi recriada na mesma voz):**
-> Os valores atribuídos a cada um dos pedidos formulados nesta exordial possuem natureza meramente estimativa, servindo unicamente ao atendimento da exigência legal de indicação de valor certo aos pedidos, nos termos do art. 840, § 1º, da CLT. Não há, portanto, que se falar em limitação da condenação aos montantes ora apresentados, porquanto a apuração exata e definitiva das verbas eventualmente deferidas depende da regular instrução processual, da produção das provas cabíveis e da liquidação de sentença, momento processual próprio para a definição precisa do quantum debeatur.
+**Correção de registro:** ao contrário do que constava numa versão anterior deste catálogo, esta cláusula **está sim presente na petição real da Tayná** (item "DOS VALORES MERAMENTE ESTIMATÓRIOS", logo após a gratuidade) — não precisou ser recriada. Fundamento usado por ela: **art. 12, § 2º, da Instrução Normativa n.º 41/2018 do TST** (fixação do rito processual/valor da causa), complementar ao art. 840, § 1º, da CLT (exigência de valor certo ao pedido) usado nas outras petições-fonte. Citar os dois fundamentos reforça o argumento.
+
+**Texto sugerido (texto real, Tayná):**
+> Registra-se que os valores atribuídos aos pedidos nesta exordial representam mera estimativa para fins de fixação do rito processual e atribuição do valor da causa, nos termos do art. 12, § 2º, da Instrução Normativa n.º 41/2018 do TST, não limitando o montante da condenação, o qual deverá ser apurado de forma integral em ulterior liquidação de sentença por cálculos. Portanto, não há falar em limitação de eventual condenação aos valores inicialmente estimados, devendo o montante exato ser apurado em sede de regular liquidação de sentença, oportunidade adequada para a precisa definição do quantum debeatur.
 
 **Variações históricas (texto real, Cardoso — usar só como referência, não mais como padrão):**
 - Versão longa (Geovane): "Quanto à limitação dos valores indicados na petição inicial, ressalta-se que estes possuem caráter meramente estimativo [...]"
@@ -471,6 +497,24 @@ Antes de pedir em qualquer cenário, confirmar requisitos de carência da Lei 7.
 
 **Texto sugerido (texto modelo, estilo Tayná):**
 > Verifica-se que foram descontados da remuneração/TRCT da Reclamante os valores de R$ [valor], a título de [ex.: empréstimo consignado], sem que houvesse autorização válida e específica para tanto, o que configura desconto indevido, nos termos do art. 462 da CLT, devendo o respectivo montante ser integralmente restituído à Reclamante.
+
+---
+
+## 38. Prioridade de tramitação (idade, doença grave, deficiência, gestante/lactante)
+**Tipo:** ESPECÍFICO — checar sempre na qualificação do reclamante (cláusula 0), mas só requerer se um dos critérios objetivos abaixo estiver preenchido
+
+**Base legal:** art. 1.048 do CPC (aplicação subsidiária à CLT via art. 769 CLT / art. 15 CPC) + Estatuto do Idoso (Lei 10.741/2003, art. 71) + Lei 13.146/2015 (Estatuto da Pessoa com Deficiência).
+
+**Condições de procedência (qualquer uma basta, não é cumulativo):**
+1. **Idade ≥ 60 anos** na data do ajuizamento (art. 1.048, I, CPC) — critério puramente objetivo, só checar a data de nascimento já presente na qualificação (cláusula 0).
+2. **Doença grave**, assim entendida — atenção ao critério legal, que é mais restrito do que parece — "qualquer patologia ou condição clínica que comprometa gravemente a saúde do postulante, inclusive as anteriores à propositura da ação, **cuja gravidade indique risco de vida**" (art. 1.048, § 1º, I e II, CPC). **Não presumir**: uma lesão incapacitante (ex.: hérnia discal, LER/DORT) não se enquadra automaticamente aqui só por gerar afastamento ou estabilidade acidentária — o padrão de "doença grave" para prioridade de tramitação exige risco de vida (ex.: câncer, doenças degenerativas graves, HIV/AIDS em estágio avançado), não incapacidade funcional. Verificar o laudo médico com atenção antes de requerer por este fundamento.
+3. **Pessoa com deficiência**, na forma da Lei 13.146/2015 (impedimento de longo prazo — normalmente mais de 2 anos — de natureza física, mental, intelectual ou sensorial que, em interação com barreiras, obstrua a participação plena e efetiva na sociedade) — também não presumir a partir de uma lesão temporária ou em fase de tratamento/recuperação.
+4. **Gestante ou lactante** — construção jurisprudencial/analógica, menos pacífica que os incisos legais do art. 1.048, mas defensável por analogia à proteção constitucional à maternidade.
+
+**⚠️ Alerta de calibração (relevante para o padrão de casos deste escritório — acidente/doença ocupacional):** muitos clientes têm laudo médico atestando incapacidade ou nexo causal para fins de estabilidade acidentária (cláusula 20/64) ou dano moral (cláusula 35), mas isso **não é o mesmo padrão probatório** exigido para prioridade de tramitação por doença grave — não pedir automaticamente só porque já há laudo médico nos autos para outro fim; checar especificamente se a condição envolve risco de vida.
+
+**Texto sugerido (texto modelo):**
+> Requer-se, ainda, a concessão de prioridade de tramitação ao presente feito, nos termos do art. 1.048, [I / II / III], do Código de Processo Civil, de aplicação subsidiária ao Processo do Trabalho (art. 769 da CLT e art. 15 do CPC), tendo em vista que a parte Reclamante [é maior de 60 (sessenta) anos, conforme data de nascimento indicada na qualificação / é portadora de doença grave que compromete gravemente sua saúde e indica risco de vida, conforme laudo médico anexo / é pessoa com deficiência, na forma da Lei nº 13.146/2015, conforme laudo/documento anexo].
 
 ---
 
