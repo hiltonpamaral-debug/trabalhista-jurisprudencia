@@ -49,6 +49,22 @@ Argumentos já validados em 2 ações reais contra a Pague Menos (Geovane, Welly
 
 **Para qualquer reclamada que NÃO seja a Pague Menos**, este padrão específico não se aplica automaticamente — investigar a rotina real do caso concreto (mensagens, testemunhas, organograma) antes de alegar ausência de autonomia.
 
+#### Trecho pronto para adaptar (extraído da petição real Geovane x Pague Menos, generalizado no caso Rosely x Pague Menos, 2026-07-29)
+
+Usar como base de prosa formal (não só bullets) sempre que a reclamada for a Pague Menos — trocar `[nome]`/pronomes e os exemplos concretos (scripts, madrugada, colaborador emprestado etc.) pelos fatos do caso, mantendo a estrutura argumentativa:
+
+> Embora formalmente designado(a) como [cargo], [Reclamante] jamais exerceu funções compatíveis com cargo de confiança nos moldes exigidos pela legislação trabalhista. A simples nomenclatura do cargo não autoriza, por si só, o enquadramento na exceção do art. 62, II, da CLT, sendo indispensável a comprovação de efetivos poderes de mando, gestão e representação empresarial, o que não ocorria no caso concreto.
+>
+> Na prática, as atividades desempenhadas por [Reclamante] não revelavam poder de mando autônomo, mas mera execução operacional das determinações da Reclamada. Sua atuação consistia em cumprir metas previamente estabelecidas pela gerência regional, repassar orientações superiores, informar dificuldades da unidade, comunicar ausências de empregados, solicitar apoio para cobertura de turnos, resolver problemas imediatos de caixa, sistema e atendimento, além de manter a loja funcionando conforme as diretrizes empresariais. As conversas anexadas demonstram que [Reclamante] precisava reportar situações à gerência regional e aguardar direcionamentos para providências internas, evidenciando que não detinha autonomia gerencial plena, mas apenas executava ordens dentro da estrutura hierárquica da empresa.
+>
+> [Reclamante] não possuía autonomia plena para tomar decisões empresariais relevantes, sendo-lhe vedado(a) conduzir a unidade como verdadeiro(a) representante da Reclamada. Não tinha liberdade efetiva para contratar, demitir, aplicar penalidades, alterar a estrutura de pessoal, definir metas ou modificar diretrizes empresariais sem a intervenção de superiores hierárquicos, RH e gerência regional. Eventuais gratificações, comissões e prêmios pagos a [Reclamante] estavam vinculados ao desempenho, ao faturamento e às metas da unidade, não configurando, por si só, fidúcia especial ou padrão remuneratório apto a afastar o direito às horas extras.
+>
+> Diante da ausência de poder efetivo de mando, da submissão a superiores hierárquicos, do controle direto e indireto da rotina, da cobrança constante por metas e indicadores e da atuação operacional, resta evidente que o cargo ocupado por [Reclamante] não se enquadra na exceção prevista no art. 62, II, da CLT. Requer-se, desde logo, a inversão do ônus da prova quanto à existência de autonomia real de mando e gestão, uma vez que compete à Reclamada, que alega o enquadramento excepcional, demonstrar os poderes que atribui a [Reclamante] — não o inverso.
+
+**Teste de sanidade complementar (Wellynton/GR)**: se pertinente ao caso, reforçar com a lógica "se [Reclamante] realmente tivesse poderes de gestão, teria autonomia para [decisão concreta do caso, ex.: aceitar doação de fornecedor em nome da empresa, autorizar desconto, dispensar funcionário sem aval] — mas não tinha, conforme demonstrado nos autos". Só usar com um exemplo concreto real do caso, não como fórmula genérica.
+
+**Nunca incluir na petição** (ficam só de uso interno, na análise/dossiê do escritório): notas sobre a "força" de cada requisito (forte/moderado), ressalvas do tipo "sem prejuízo de o Juízo concluir de forma diversa", ou argumentos preventivos sobre CCT antecipando defesa da reclamada — decisão do escritório (caso Rosely, 2026-07-29): a petição afirma a tese como correta, sem alertas ou ressalvas próprias da análise interna.
+
 ### Contra-exemplo real onde a tese do reclamante PERDEU (TRT10, ROT 0001477-54.2024.5.10.0021, julho/2026 — Unilever)
 Importante calibrar expectativa: cargo de confiança foi **mantido como válido** (reclamante não teve as horas extras). Provas que sustentaram a defesa da empresa:
 - Reclamante coordenava equipe, aplicava advertências/suspensões, participava de desligamentos, assinava acordos comerciais em nome da empresa, tinha acesso privilegiado a sistemas corporativos.
